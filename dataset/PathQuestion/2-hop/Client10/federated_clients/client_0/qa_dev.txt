@@ -1,0 +1,43 @@
+what is the infanta_maria_de_la_paz_of_spain 's other half 's father ?	infanta_amelia_philippina_of_spain	infanta_maria_de_la_paz_of_spain#spouse#prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#<end>#infanta_amelia_philippina_of_spain
+the cause of death of princess_tenagnework 's mom ?	allegedly_murdered	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#cause_of_death#allegedly_murdered#<end>#allegedly_murdered
+what is the occupation of parent of princess_tenagnework ?	monarch	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#profession#monarch#<end>#monarch
+the nation of child of svante_nilsson ?	sweden	svante_nilsson#children#sten_sture_the_younger#nationality#sweden#<end>#sweden
+what is the place of death of son of maria_fyodorovna_of_russia ?	vienna	maria_fyodorovna_of_russia#children#alexandra_pavlovna_of_russia#place_of_death#vienna#<end>#vienna
+is lothair_of_france 's dad a man or a woman ?	female	lothair_of_france#parents#gerberga_of_saxony#gender#female#<end>#female
+charles_i_of_england 's heir 's gender ?	female	charles_i_of_england#children#princess_elizabeth_of_england#gender#female#<end>#female
+what made the princess_tenagnework 's momdead ?	allegedly_murdered	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#cause_of_death#allegedly_murdered#<end>#allegedly_murdered
+which nationality is peter_sellers 's spouse ?	england	peter_sellers#spouse#lynne_frederick#nationality#england#<end>#england
+what city did maria_luisa_of_parma 's offspring die ?	trieste	maria_luisa_of_parma#children#infante_carlos_count_of_molina#place_of_death#trieste#<end>#trieste
+who is the granddaughter of archduke_carl_ludwig_of_austria ?	prince_ernst_von_hohenberg	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#children#prince_ernst_von_hohenberg#<end>#prince_ernst_von_hohenberg
+the sex of niels_bohr 's mother ?	male	niels_bohr#parents#christian_bohr#gender#male#<end>#male
+what is the daughter of princess_sophia_dorothea_of_prussia 's dad ?	frederick_ii_of_prussia	princess_sophia_dorothea_of_prussia#parents#frederick_william_i_of_prussia#children#frederick_ii_of_prussia#<end>#frederick_ii_of_prussia
+what is the sex of william_ii_german_emperor 's dad ?	male	william_ii_german_emperor#parents#frederick_iii_german_emperor#gender#male#<end>#male
+what is the princess_tenagnework 's father 's race ?	oromo	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#ethnicity#oromo#<end>#oromo
+what is the margaret_mead 's darling 's nation ?	united_states	margaret_mead#spouse#gregory_bateson#nationality#united_states#<end>#united_states
+what city did anna_lee 's darling die ?	santa_barbara	anna_lee#spouse#robert_stevenson_1905#place_of_death#santa_barbara#<end>#santa_barbara
+the sex of son of maximilian_i_of_bavaria ?	male	maximilian_i_of_bavaria#children#ludwig_i_of_bavaria#gender#male#<end>#male
+the kid of father of princess_tenagnework ?	princess_tsehai	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#children#princess_tsehai#<end>#princess_tsehai
+the sex of claudius 's husband ?	female	claudius#spouse#aelia_paetina#gender#female#<end>#female
+what does princess_tenagnework 's parent do ?	monarch	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#profession#monarch#<end>#monarch
+what did evelyn_keyes 's husband die from ?	diabetes_mellitus	evelyn_keyes#spouse#artie_shaw#cause_of_death#diabetes_mellitus#<end>#diabetes_mellitus
+constantine_xi 's dad 's sex ?	male	constantine_xi#parents#manuel_ii_palaiologos#gender#male#<end>#male
+claudius 's parent 's sex ?	male	claudius#parents#nero_claudius_drusus#gender#male#<end>#male
+the place of death of mom of william_ii_german_emperor ?	potsdam	william_ii_german_emperor#parents#frederick_iii_german_emperor#place_of_death#potsdam#<end>#potsdam
+the wife of marjorie_merriweather_post 's darling ?	marjorie_merriweather_post	marjorie_merriweather_post#spouse#joseph_e_davies#spouse#marjorie_merriweather_post#<end>#marjorie_merriweather_post
+is claudius 's husband a man or a woman ?	female	claudius#spouse#aelia_paetina#gender#female#<end>#female
+what is the occupation of offspring of frances_polidori ?	illustrator	frances_polidori#children#dante_gabriel_rossetti#profession#illustrator#<end>#illustrator
+what is the sex of offspring of maria_fyodorovna_of_russia ?	female	maria_fyodorovna_of_russia#children#alexandra_pavlovna_of_russia#gender#female#<end>#female
+is constantine_xi 's dad a man or a woman ?	male	constantine_xi#parents#manuel_ii_palaiologos#gender#male#<end>#male
+archduke_carl_ludwig_of_austria 's offspring 's cause of death ?	firearm	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#cause_of_death#firearm#<end>#firearm
+what is the nationality of claudius 's parents ?	roman_empire	claudius#parents#nero_claudius_drusus#nationality#roman_empire#<end>#roman_empire
+what is the archduke_carl_ludwig_of_austria 's child 's daughter ?	prince_ernst_von_hohenberg	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#children#prince_ernst_von_hohenberg#<end>#prince_ernst_von_hohenberg
+who is the grandson of j_presper_eckert ?	j_presper_eckert	j_presper_eckert#children#j_presper_eckert#children#j_presper_eckert#<end>#j_presper_eckert
+the heir of mom of jenny_longuet ?	jenny_longuet	jenny_longuet#parents#jenny_von_westphalen#children#jenny_longuet#<end>#jenny_longuet
+what is the princess_sophia_dorothea_of_prussia 's dad 's daughter ?	frederick_ii_of_prussia	princess_sophia_dorothea_of_prussia#parents#frederick_william_i_of_prussia#children#frederick_ii_of_prussia#<end>#frederick_ii_of_prussia
+the place of birth of child of archduke_carl_ludwig_of_austria ?	graz	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#place_of_birth#graz#<end>#graz
+what is the son of niels_bohr 's parents ?	harald_bohr	niels_bohr#parents#christian_bohr#children#harald_bohr#<end>#harald_bohr
+what is the maria_fyodorovna_of_russia 's son 's place of death ?	vienna	maria_fyodorovna_of_russia#children#alexandra_pavlovna_of_russia#place_of_death#vienna#<end>#vienna
+the nation of robert_anderson_1917 's wife ?	united_states	robert_anderson_1917#spouse#teresa_wright#nationality#united_states#<end>#united_states
+what is the child of prince_feodor_alexandrovich_of_russia 's parent ?	prince_andrei_alexandrovich_of_russia	prince_feodor_alexandrovich_of_russia#parents#grand_duke_alexander_mikhailovich_of_russia#children#prince_andrei_alexandrovich_of_russia#<end>#prince_andrei_alexandrovich_of_russia
+what is the princess_tenagnework 's father 's kid ?	princess_tsehai	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#children#princess_tsehai#<end>#princess_tsehai
+is charles_i_of_england 's heir a man or a woman ?	female	charles_i_of_england#children#princess_elizabeth_of_england#gender#female#<end>#female

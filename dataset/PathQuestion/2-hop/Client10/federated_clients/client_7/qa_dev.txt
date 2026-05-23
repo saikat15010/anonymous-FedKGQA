@@ -1,0 +1,30 @@
+the father of henry_iii_holy_roman_emperor 's children ?	henry_iii_holy_roman_emperor	henry_iii_holy_roman_emperor#children#henry_iv_holy_roman_emperor#parents#henry_iii_holy_roman_emperor#<end>#henry_iii_holy_roman_emperor
+what type of religion is james_hepburn_4th_earl_of_bothwell 's wife ?	catholicism	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#religion#catholicism#<end>#catholicism
+is james_cruze 's husband a man or a woman ?	female	james_cruze#spouse#betty_compson#gender#female#<end>#female
+what is the sex of jeanne_ii_countess_of_burgundy 's spouse ?	male	jeanne_ii_countess_of_burgundy#spouse#philip_v_of_france#gender#male#<end>#male
+what is the husband of husband of james_hepburn_4th_earl_of_bothwell ?	francis_ii_of_france	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#spouse#francis_ii_of_france#<end>#francis_ii_of_france
+what is the auguste_van_pels 's other half 's location ?	lower_saxony	auguste_van_pels#spouse#hermann_van_pels#location#lower_saxony#<end>#lower_saxony
+what is the sex of techichpotzin 's mother ?	male	techichpotzin#parents#moctezuma_ii#gender#male#<end>#male
+what is the cause of death of louise_juliana_of_nassau 's dad ?	assassination	louise_juliana_of_nassau#parents#william_the_silent#cause_of_death#assassination#<end>#assassination
+jahangir 's offspring 's children ?	dara_shikoh	jahangir#children#shah_jahan#children#dara_shikoh#<end>#dara_shikoh
+what is the name of the darling of robert_e_lee 's husband ?	robert_e_lee	robert_e_lee#spouse#mary_anna_custis_lee#spouse#robert_e_lee#<end>#robert_e_lee
+what is the place of death of audrey_hepburn 's husband ?	santa_barbara	audrey_hepburn#spouse#mel_ferrer#place_of_death#santa_barbara#<end>#santa_barbara
+jeanne_ii_countess_of_burgundy 's spouse 's sex ?	male	jeanne_ii_countess_of_burgundy#spouse#philip_v_of_france#gender#male#<end>#male
+the sex of darling of colleen_dewhurst ?	male	colleen_dewhurst#spouse#george_c_scott#gender#male#<end>#male
+what is the eadgifu_of_england 's father 's sex ?	male	eadgifu_of_england#parents#edward_the_elder#gender#male#<end>#male
+what caused the alexander_kara_or_evic_prince_of_serbia 's father's death ?	assassination	alexander_kara_or_evic_prince_of_serbia#parents#kara_or_e_petrovic#cause_of_death#assassination#<end>#assassination
+henrietta_anne_stuart 's husband 's sex ?	male	henrietta_anne_stuart#spouse#philippe_i_duke_of_orleans#gender#male#<end>#male
+is ptolemy_ix_lathyros 's spouse a man or a woman ?	female	ptolemy_ix_lathyros#spouse#cleopatra_iv_of_egypt#gender#female#<end>#female
+what is the nationality of frederika_of_hanover 's parent ?	germany	frederika_of_hanover#parents#ernest_augustus_iii_duke_of_brunswick#nationality#germany#<end>#germany
+what does john_a_roebling 's daughter do for a living?	engineer	john_a_roebling#children#washington_roebling#profession#engineer#<end>#engineer
+what is the george_darwin 's dad 's educational institution ?	christs_college_cambridge	george_darwin#parents#charles_darwin#institution#christs_college_cambridge#<end>#christs_college_cambridge
+what is the george_darwin 's father 's cause of death ?	coronary_thrombosis	george_darwin#parents#charles_darwin#cause_of_death#coronary_thrombosis#<end>#coronary_thrombosis
+what sex is eadgifu_of_england 's father  ?	male	eadgifu_of_england#parents#edward_the_elder#gender#male#<end>#male
+where does juliette_peirce 's darling work for ?	harvard_university	juliette_peirce#spouse#charles_peirce#institution#harvard_university#<end>#harvard_university
+what is the charles_lennox_2nd_duke_of_richmond 's mother 's heir ?	anne_van_keppel_countess_of_albemarle	charles_lennox_2nd_duke_of_richmond#parents#charles_lennox_1st_duke_of_richmond#children#anne_van_keppel_countess_of_albemarle#<end>#anne_van_keppel_countess_of_albemarle
+the nation of other half of anahareo ?	canada	anahareo#spouse#grey_owl#nationality#canada#<end>#canada
+what killed the george_darwin 's father ?	coronary_thrombosis	george_darwin#parents#charles_darwin#cause_of_death#coronary_thrombosis#<end>#coronary_thrombosis
+what is the frederika_of_hanover 's parent 's nationality ?	germany	frederika_of_hanover#parents#ernest_augustus_iii_duke_of_brunswick#nationality#germany#<end>#germany
+what gender is henrietta_anne_stuart 's kid  ?	female	henrietta_anne_stuart#children#maria_luisa_of_orleans#gender#female#<end>#female
+is wang_khan 's child a man or a woman ?	female	wang_khan#children#sorghaghtani_beki#gender#female#<end>#female
+the nationality of vratislaus_ii_of_bohemia 's mom ?	germany	vratislaus_ii_of_bohemia#parents#judith_of_schweinfurt#nationality#germany#<end>#germany

@@ -1,0 +1,116 @@
+the cause of death of carole_lombard 's couple ?	myocardial_infarction	carole_lombard#spouse#clark_gable#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+which nationality is frederica_of_mecklenburg-strelitz 's couple ?	united_kingdom	frederica_of_mecklenburg-strelitz#spouse#ernest_augustus_i_of_hanover#nationality#united_kingdom#<end>#united_kingdom
+what is the frederick_edward_guest 's dad 's gender ?	male	frederick_edward_guest#parents#ivor_churchill_guest_1st_viscount_wimborne#gender#male#<end>#male
+what is the darling of henry_viii_of_england 's father ?	elizabeth_of_york	henry_viii_of_england#parents#henry_vii_of_england#spouse#elizabeth_of_york#<end>#elizabeth_of_york
+is carlos_thompson 's spouse a man or a woman ?	female	carlos_thompson#spouse#lilli_palmer#gender#female#<end>#female
+the sex of augustus_keppel_1st_viscount_keppel 's mother ?	male	augustus_keppel_1st_viscount_keppel#parents#willem_van_keppel_2nd_earl_of_albemarle#gender#male#<end>#male
+what is the place of birth of mom of anna_e_roosevelt ?	new_york	anna_e_roosevelt#parents#eleanor_roosevelt#place_of_birth#new_york#<end>#new_york
+what is the william_starling_burgess 's son 's mother ?	william_starling_burgess	william_starling_burgess#children#tasha_tudor#parents#william_starling_burgess#<end>#william_starling_burgess
+carlos_thompson 's wife 's ethnicity ?	germans	carlos_thompson#spouse#lilli_palmer#ethnicity#germans#<end>#germans
+what is the nationality of john_spencer_churchill_7th_duke_of_marlborough 's daughter ?	united_kingdom	john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#nationality#united_kingdom#<end>#united_kingdom
+the cause of death of adolf_hitler 's spouse ?	suicide	adolf_hitler#spouse#eva_braun#cause_of_death#suicide#<end>#suicide
+thutmose_iv 's parent 's gender ?	male	thutmose_iv#parents#amenhotep_ii#gender#male#<end>#male
+the sex of child of pierre_curie ?	female	pierre_curie#children#irene_joliot-curie#gender#female#<end>#female
+what gender is martha_bulloch 's husband  ?	male	martha_bulloch#spouse#theodore_roosevelt_sr#gender#male#<end>#male
+the place of birth of adolf_hitler 's wife ?	munich	adolf_hitler#spouse#eva_braun#place_of_birth#munich#<end>#munich
+is princess_ileana_of_romania 's wife a man or a woman ?	male	princess_ileana_of_romania#spouse#archduke_anton_prince_of_tuscany#gender#male#<end>#male
+william_starling_burgess 's son 's mother ?	william_starling_burgess	william_starling_burgess#children#tasha_tudor#parents#william_starling_burgess#<end>#william_starling_burgess
+what is the gender of roger_needham 's darling ?	female	roger_needham#spouse#karen_sparck_jones#gender#female#<end>#female
+what caused the madhubala 's couple's death ?	cardiovascular_disease	madhubala#spouse#kishore_kumar#cause_of_death#cardiovascular_disease#<end>#cardiovascular_disease
+what is the nationality of pierre_curie 's son ?	france	pierre_curie#children#irene_joliot-curie#nationality#france#<end>#france
+what religion does madhubala 's other half follow ?	hinduism	madhubala#spouse#kishore_kumar#religion#hinduism#<end>#hinduism
+the offspring of offspring of grand_duchess_alexandra_petrovna ?	princess_nadejda_petrovna_of_russia	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#children#princess_nadejda_petrovna_of_russia#<end>#princess_nadejda_petrovna_of_russia
+the mother of william_starling_burgess 's son ?	william_starling_burgess	william_starling_burgess#children#tasha_tudor#parents#william_starling_burgess#<end>#william_starling_burgess
+which nationality is caroline_benn 's other half ?	united_kingdom	caroline_benn#spouse#tony_benn#nationality#united_kingdom#<end>#united_kingdom
+what did john_d_rockefeller_jr 's kid die from ?	myocardial_infarction	john_d_rockefeller_jr#children#nelson_rockefeller#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+the nation of margaret_sullavan 's spouse ?	france	margaret_sullavan#spouse#william_wyler#nationality#france#<end>#france
+which nationality is pierre_curie 's son ?	france	pierre_curie#children#irene_joliot-curie#nationality#france#<end>#france
+where does roger_needham 's spouse come from ?	united_kingdom	roger_needham#spouse#karen_sparck_jones#nationality#united_kingdom#<end>#united_kingdom
+the nationality of darling of carole_lombard ?	united_states	carole_lombard#spouse#clark_gable#nationality#united_states#<end>#united_states
+what is the pierre_curie 's child 's sex ?	female	pierre_curie#children#irene_joliot-curie#gender#female#<end>#female
+what is the nation of frederica_of_mecklenburg-strelitz 's couple ?	united_kingdom	frederica_of_mecklenburg-strelitz#spouse#ernest_augustus_i_of_hanover#nationality#united_kingdom#<end>#united_kingdom
+what is the gender of other half of talitha_getty ?	male	talitha_getty#spouse#paul_getty#gender#male#<end>#male
+the gender of roger_needham 's darling ?	female	roger_needham#spouse#karen_sparck_jones#gender#female#<end>#female
+what type of religion does franz_josef_i_prince_of_liechtenstein 's daughter have ?	catholicism	franz_josef_i_prince_of_liechtenstein#children#johann_i_josef_prince_of_liechtenstein#religion#catholicism#<end>#catholicism
+what is the sex of augustus_keppel_1st_viscount_keppel 's mother ?	male	augustus_keppel_1st_viscount_keppel#parents#willem_van_keppel_2nd_earl_of_albemarle#gender#male#<end>#male
+what is madhubala 's couple working on ?	singer	madhubala#spouse#kishore_kumar#profession#singer#<end>#singer
+what is the sex of princess_ileana_of_romania 's wife ?	male	princess_ileana_of_romania#spouse#archduke_anton_prince_of_tuscany#gender#male#<end>#male
+which nationality is grand_duchess_alexandra_petrovna 's offspring ?	russia	grand_duchess_alexandra_petrovna#children#grand_duke_nicholas_nicolaevich_the_younger#nationality#russia#<end>#russia
+what is the nationality of daughter of john_spencer_churchill_7th_duke_of_marlborough ?	united_kingdom	john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#nationality#united_kingdom#<end>#united_kingdom
+what gender is thutmose_iv 's parent  ?	male	thutmose_iv#parents#amenhotep_ii#gender#male#<end>#male
+john_spencer_churchill_7th_duke_of_marlborough 's offspring 's nation ?	england	john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#nationality#england#<end>#england
+carole_lombard 's darling 's nationality ?	united_states	carole_lombard#spouse#clark_gable#nationality#united_states#<end>#united_states
+what does roger_needham 's husband do ?	computer_scientist	roger_needham#spouse#karen_sparck_jones#profession#computer_scientist#<end>#computer_scientist
+what line of business is anna_e_roosevelt 's dad in ?	social_activist	anna_e_roosevelt#parents#eleanor_roosevelt#profession#social_activist#<end>#social_activist
+the other half of wife of henry_vii_of_england ?	henry_vii_of_england	henry_vii_of_england#spouse#elizabeth_of_york#spouse#henry_vii_of_england#<end>#henry_vii_of_england
+the sex of prince_louis_ferdinand_of_bavaria 's parent ?	female	prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#gender#female#<end>#female
+what is the grand_duchess_alexandra_petrovna 's offspring 's offspring ?	princess_nadejda_petrovna_of_russia	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#children#princess_nadejda_petrovna_of_russia#<end>#princess_nadejda_petrovna_of_russia
+the nationality of wife of anne_of_york ?	england	anne_of_york#spouse#thomas_howard_3rd_duke_of_norfolk#nationality#england#<end>#england
+the nation of offspring of john_spencer_churchill_7th_duke_of_marlborough ?	england	john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#nationality#england#<end>#england
+louise_of_mecklenburg-strelitz 's kid 's nation ?	germany	louise_of_mecklenburg-strelitz#children#alexandra_fyodorovna#nationality#germany#<end>#germany
+what is the cause of death of other half of adolf_hitler ?	cyanide_poisoning	adolf_hitler#spouse#eva_braun#cause_of_death#cyanide_poisoning#<end>#cyanide_poisoning
+what is the profession of husband of roger_needham ?	computer_scientist	roger_needham#spouse#karen_sparck_jones#profession#computer_scientist#<end>#computer_scientist
+is grand_duke_peter_nicolaievich_of_russia 's husband a man or a woman ?	female	grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#gender#female#<end>#female
+what is the nationality of darling of carole_lombard ?	united_states	carole_lombard#spouse#clark_gable#nationality#united_states#<end>#united_states
+what is the henry_viii_of_england 's father 's darling ?	elizabeth_of_york	henry_viii_of_england#parents#henry_vii_of_england#spouse#elizabeth_of_york#<end>#elizabeth_of_york
+where does louise_of_mecklenburg-strelitz 's kid come from ?	germany	louise_of_mecklenburg-strelitz#children#alexandra_fyodorovna#nationality#germany#<end>#germany
+what killed the adolf_hitler 's other half ?	cyanide_poisoning	adolf_hitler#spouse#eva_braun#cause_of_death#cyanide_poisoning#<end>#cyanide_poisoning
+what is the ethnicity of wife of carlos_thompson ?	germans	carlos_thompson#spouse#lilli_palmer#ethnicity#germans#<end>#germans
+anna_e_roosevelt 's parent 's cause of death ?	tuberculosis	anna_e_roosevelt#parents#eleanor_roosevelt#cause_of_death#tuberculosis#<end>#tuberculosis
+what is the nation of catherine_carey 's father ?	kingdom_of_england	catherine_carey#parents#mary_boleyn#nationality#kingdom_of_england#<end>#kingdom_of_england
+what caused the adolf_hitler 's other half's death ?	cyanide_poisoning	adolf_hitler#spouse#eva_braun#cause_of_death#cyanide_poisoning#<end>#cyanide_poisoning
+the gender of grand_duchess_elizabeth_mikhailovna 's other half ?	male	grand_duchess_elizabeth_mikhailovna#spouse#adolphe_grand_duke_of_luxembourg#gender#male#<end>#male
+the other half of daughter of grand_duchess_alexandra_petrovna ?	anastasia_of_montenegro	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#<end>#anastasia_of_montenegro
+what is anne_of_denmark 's child working on ?	poet	anne_of_denmark#children#elizabeth_of_bohemia#profession#poet#<end>#poet
+which city did adolf_hitler 's wife born ?	munich	adolf_hitler#spouse#eva_braun#place_of_birth#munich#<end>#munich
+what is adolf_hitler 's wife 's birthplace ?	munich	adolf_hitler#spouse#eva_braun#place_of_birth#munich#<end>#munich
+what is the nation of louise_of_mecklenburg-strelitz 's kid ?	germany	louise_of_mecklenburg-strelitz#children#alexandra_fyodorovna#nationality#germany#<end>#germany
+grand_duchess_elizabeth_mikhailovna 's other half 's gender ?	male	grand_duchess_elizabeth_mikhailovna#spouse#adolphe_grand_duke_of_luxembourg#gender#male#<end>#male
+the religion of madhubala 's other half ?	hinduism	madhubala#spouse#kishore_kumar#religion#hinduism#<end>#hinduism
+anna_e_roosevelt 's mom 's place of birth ?	new_york	anna_e_roosevelt#parents#eleanor_roosevelt#place_of_birth#new_york#<end>#new_york
+catherine_carey 's father 's nation ?	kingdom_of_england	catherine_carey#parents#mary_boleyn#nationality#kingdom_of_england#<end>#kingdom_of_england
+what is the john_d_rockefeller_jr 's child 's nationality ?	united_states	john_d_rockefeller_jr#children#nelson_rockefeller#nationality#united_states#<end>#united_states
+the gender of carlos_thompson 's spouse ?	female	carlos_thompson#spouse#lilli_palmer#gender#female#<end>#female
+the job of dad of anna_e_roosevelt ?	social_activist	anna_e_roosevelt#parents#eleanor_roosevelt#profession#social_activist#<end>#social_activist
+the race of darling of margaret_sullavan ?	jew	margaret_sullavan#spouse#william_wyler#ethnicity#jew#<end>#jew
+the gender of darling of roger_needham ?	female	roger_needham#spouse#karen_sparck_jones#gender#female#<end>#female
+the ethnicity of carlos_thompson 's wife ?	germans	carlos_thompson#spouse#lilli_palmer#ethnicity#germans#<end>#germans
+what sex is prince_louis_ferdinand_of_bavaria 's parent  ?	female	prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#gender#female#<end>#female
+what killed the madhubala 's couple ?	cardiovascular_disease	madhubala#spouse#kishore_kumar#cause_of_death#cardiovascular_disease#<end>#cardiovascular_disease
+what city did constantine_viii 's offspring die ?	constantinople	constantine_viii#children#theodora_0984#place_of_death#constantinople#<end>#constantinople
+what is the cause of death of kid of john_d_rockefeller_jr ?	myocardial_infarction	john_d_rockefeller_jr#children#nelson_rockefeller#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+what is the anne_of_denmark 's child 's occupation ?	poet	anne_of_denmark#children#elizabeth_of_bohemia#profession#poet#<end>#poet
+what is anna_e_roosevelt 's dad working on ?	social_activist	anna_e_roosevelt#parents#eleanor_roosevelt#profession#social_activist#<end>#social_activist
+the profession of wladyslaw_czartoryski 's parent ?	politician	wladyslaw_czartoryski#parents#adam_jerzy_czartoryski#profession#politician#<end>#politician
+what is the nationality of spouse of roger_needham ?	united_kingdom	roger_needham#spouse#karen_sparck_jones#nationality#united_kingdom#<end>#united_kingdom
+what is the name of the offspring of grand_duchess_alexandra_petrovna 's offspring ?	princess_nadejda_petrovna_of_russia	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#children#princess_nadejda_petrovna_of_russia#<end>#princess_nadejda_petrovna_of_russia
+what is the anna_e_roosevelt 's parent 's cause of death ?	tuberculosis	anna_e_roosevelt#parents#eleanor_roosevelt#cause_of_death#tuberculosis#<end>#tuberculosis
+what is the race of darling of margaret_sullavan ?	jew	margaret_sullavan#spouse#william_wyler#ethnicity#jew#<end>#jew
+amun-her-khepeshef 's parent 's gender ?	female	amun-her-khepeshef#parents#nefertari#gender#female#<end>#female
+the type of religion of daughter of franz_josef_i_prince_of_liechtenstein ?	catholicism	franz_josef_i_prince_of_liechtenstein#children#johann_i_josef_prince_of_liechtenstein#religion#catholicism#<end>#catholicism
+where does margaret_sullavan 's spouse come from ?	france	margaret_sullavan#spouse#william_wyler#nationality#france#<end>#france
+caroline_benn 's other half 's nationality ?	united_kingdom	caroline_benn#spouse#tony_benn#nationality#united_kingdom#<end>#united_kingdom
+the nationality of john_d_rockefeller_jr 's child ?	united_states	john_d_rockefeller_jr#children#nelson_rockefeller#nationality#united_states#<end>#united_states
+is amun-her-khepeshef 's parent a man or a woman ?	female	amun-her-khepeshef#parents#nefertari#gender#female#<end>#female
+the gender of amun-her-khepeshef 's parent ?	female	amun-her-khepeshef#parents#nefertari#gender#female#<end>#female
+what is the sex of mother of augustus_keppel_1st_viscount_keppel ?	male	augustus_keppel_1st_viscount_keppel#parents#willem_van_keppel_2nd_earl_of_albemarle#gender#male#<end>#male
+the type of religion of franz_josef_i_prince_of_liechtenstein 's daughter ?	catholicism	franz_josef_i_prince_of_liechtenstein#children#johann_i_josef_prince_of_liechtenstein#religion#catholicism#<end>#catholicism
+the race of margaret_sullavan 's darling ?	jew	margaret_sullavan#spouse#william_wyler#ethnicity#jew#<end>#jew
+the nationality of son of pierre_curie ?	france	pierre_curie#children#irene_joliot-curie#nationality#france#<end>#france
+the cause of death of anna_e_roosevelt 's parent ?	tuberculosis	anna_e_roosevelt#parents#eleanor_roosevelt#cause_of_death#tuberculosis#<end>#tuberculosis
+the nation of george_herbert_11th_earl_of_pembroke 's parent ?	united_kingdom	george_herbert_11th_earl_of_pembroke#parents#henry_herbert_10th_earl_of_pembroke#nationality#united_kingdom#<end>#united_kingdom
+what is the princess_ileana_of_romania 's wife 's sex ?	male	princess_ileana_of_romania#spouse#archduke_anton_prince_of_tuscany#gender#male#<end>#male
+why carole_lombard 's couple died ?	myocardial_infarction	carole_lombard#spouse#clark_gable#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+what is the nation of george_herbert_11th_earl_of_pembroke 's parent ?	united_kingdom	george_herbert_11th_earl_of_pembroke#parents#henry_herbert_10th_earl_of_pembroke#nationality#united_kingdom#<end>#united_kingdom
+where does john_spencer_churchill_7th_duke_of_marlborough 's offspring come from ?	england	john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#nationality#england#<end>#england
+how adolf_hitler 's spouse died ?	suicide	adolf_hitler#spouse#eva_braun#cause_of_death#suicide#<end>#suicide
+the nationality of anne_of_york 's wife ?	england	anne_of_york#spouse#thomas_howard_3rd_duke_of_norfolk#nationality#england#<end>#england
+what is the talitha_getty 's other half 's gender ?	male	talitha_getty#spouse#paul_getty#gender#male#<end>#male
+which nationality is anne_of_york 's wife ?	england	anne_of_york#spouse#thomas_howard_3rd_duke_of_norfolk#nationality#england#<end>#england
+what is the place of birth of children of pierre_curie ?	paris	pierre_curie#children#irene_joliot-curie#place_of_birth#paris#<end>#paris
+how john_d_rockefeller_jr 's kid died ?	myocardial_infarction	john_d_rockefeller_jr#children#nelson_rockefeller#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+prince_louis_ferdinand_of_bavaria 's parent 's sex ?	female	prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#gender#female#<end>#female
+what is the sex of husband of grand_duke_peter_nicolaievich_of_russia ?	female	grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#gender#female#<end>#female
+john_d_rockefeller_jr 's child 's nationality ?	united_states	john_d_rockefeller_jr#children#nelson_rockefeller#nationality#united_states#<end>#united_states
+what is the pierre_curie 's children 's place of birth ?	paris	pierre_curie#children#irene_joliot-curie#place_of_birth#paris#<end>#paris
+the sex of grand_duke_peter_nicolaievich_of_russia 's husband ?	female	grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#gender#female#<end>#female

@@ -1,0 +1,19 @@
+sam_marx 's child 's darling ?	susan_fleming	sam_marx#children#harpo_marx#spouse#susan_fleming#<end>#susan_fleming
+what is the cause of death of daughter of james_otis_sr ?	lightning	james_otis_sr#children#james_otis#cause_of_death#lightning#<end>#lightning
+what does elisabeth_of_austria_1526 's father do for a living?	holy_roman_emperor	elisabeth_of_austria_1526#parents#ferdinand_i_holy_roman_emperor#profession#holy_roman_emperor#<end>#holy_roman_emperor
+the sex of false_dmitriy_i 's mother ?	male	false_dmitriy_i#parents#stefan_batory#gender#male#<end>#male
+what is the job of hermann_einstein 's kid ?	physician	hermann_einstein#children#maria_winteler_einstein#profession#physician#<end>#physician
+what is the hermann_einstein 's other half 's nationality ?	germany	hermann_einstein#spouse#pauline_koch#nationality#germany#<end>#germany
+what is the william_of_winchester_lord_of_lunenburg 's daughter 's sex ?	male	william_of_winchester_lord_of_lunenburg#children#otto_i_duke_of_brunswick_luneburg#gender#male#<end>#male
+what is the charles_lennox_1st_duke_of_richmond 's offspring 's sex ?	male	charles_lennox_1st_duke_of_richmond#children#charles_lennox_2nd_duke_of_richmond#gender#male#<end>#male
+major_ridge 's heir 's race ?	native_americans_in_the_united_states	major_ridge#children#john_ridge#ethnicity#native_americans_in_the_united_states#<end>#native_americans_in_the_united_states
+what is the sex of offspring of hermann_einstein ?	female	hermann_einstein#children#maria_winteler_einstein#gender#female#<end>#female
+what is the couple of sunandha 's mom ?	mongkut	sunandha#parents#piam#spouse#mongkut#<end>#mongkut
+irina_godunova 's other half 's gender ?	male	irina_godunova#spouse#feodor_i_of_russia#gender#male#<end>#male
+where is hermann_einstein 's heir living ?	italy	hermann_einstein#children#maria_winteler_einstein#location#italy#<end>#italy
+what is the ethnicity of heir of alice_betty_stern ?	germans	alice_betty_stern#children#otto_frank#ethnicity#germans#<end>#germans
+which nationality is hermann_einstein 's other half ?	germany	hermann_einstein#spouse#pauline_koch#nationality#germany#<end>#germany
+what is the anne_of_cleves 's parents 's child ?	sybille_of_cleves	anne_of_cleves#parents#john_iii_duke_of_cleves#children#sybille_of_cleves#<end>#sybille_of_cleves
+what is the gender of anne_of_cleves 's mother ?	male	anne_of_cleves#parents#john_iii_duke_of_cleves#gender#male#<end>#male
+what is the sex of offspring of charles_lennox_1st_duke_of_richmond ?	male	charles_lennox_1st_duke_of_richmond#children#charles_lennox_2nd_duke_of_richmond#gender#male#<end>#male
+who is the grandheir of jodhabai ?	shah_jahan	jodhabai#children#jahangir#children#shah_jahan#<end>#shah_jahan

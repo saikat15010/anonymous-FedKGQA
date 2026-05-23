@@ -1,0 +1,21 @@
+what line of business is louis_the_pious 's dad in ?	emperor	louis_the_pious#parents#charlemagne#profession#emperor#<end>#emperor
+what is the sex of joseph_e_davies 's darling ?	female	joseph_e_davies#spouse#marjorie_merriweather_post#gender#female#<end>#female
+which city did adolphus_busch_iii 's mom born ?	st_louis_missouri	adolphus_busch_iii#parents#august_anheuser_busch_sr#place_of_birth#st_louis_missouri#<end>#st_louis_missouri
+what is the wife of darling of elizabeth_of_york ?	elizabeth_of_york	elizabeth_of_york#spouse#henry_vii_of_england#spouse#elizabeth_of_york#<end>#elizabeth_of_york
+elizabeth_of_york 's darling 's wife ?	elizabeth_of_york	elizabeth_of_york#spouse#henry_vii_of_england#spouse#elizabeth_of_york#<end>#elizabeth_of_york
+what is the philip_iii_of_navarre 's mom 's nation ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the nationality of marie_francois_sadi_carnot 's mother ?	france	marie_francois_sadi_carnot#parents#hippolyte_carnot#nationality#france#<end>#france
+what gender is benjamin_disraeli_1st_earl_of_beaconsfield 's darling  ?	female	benjamin_disraeli_1st_earl_of_beaconsfield#spouse#mary_anne_disraeli_1st_viscountess_beaconsfield#gender#female#<end>#female
+what is the ethnicity of darling of george_tabori ?	swedish_american	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_american#<end>#swedish_american
+what is the other half of alexander_darcy 's other half ?	alexander_darcy	alexander_darcy#spouse#arleen_whelan#spouse#alexander_darcy#<end>#alexander_darcy
+what does elizabeth_of_york 's other half do for a living?	monarch	elizabeth_of_york#spouse#henry_vii_of_england#profession#monarch#<end>#monarch
+who is the daughter of louise_elisabeth_of_orleans 's mom ?	duc_dorleans	louise_elisabeth_of_orleans#parents#francoise_marie_de_bourbon#children#duc_dorleans#<end>#duc_dorleans
+alexander_darcy 's other half 's other half ?	alexander_darcy	alexander_darcy#spouse#arleen_whelan#spouse#alexander_darcy#<end>#alexander_darcy
+what faith is george_of_saxony 's child ?	roman_catholic_church	george_of_saxony#children#prince_johann_georg_of_saxony#religion#roman_catholic_church#<end>#roman_catholic_church
+the sex of vasili_i_of_russia 's parents ?	female	vasili_i_of_russia#parents#eudoxia_of_moscow#gender#female#<end>#female
+what is the name of the daughter of louise_elisabeth_of_orleans 's mom ?	duc_dorleans	louise_elisabeth_of_orleans#parents#francoise_marie_de_bourbon#children#duc_dorleans#<end>#duc_dorleans
+where does philip_iii_of_navarre 's mom come from ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the archduchess_maria_beatrix_of_austria_este 's children 's place of birth ?	ljubljana	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_birth#ljubljana#<end>#ljubljana
+the sex of joseph_e_davies 's darling ?	female	joseph_e_davies#spouse#marjorie_merriweather_post#gender#female#<end>#female
+what is the cause of death of postumus_junior 's dad ?	assassination	postumus_junior#parents#postumus#cause_of_death#assassination#<end>#assassination
+what city did archduchess_maria_beatrix_of_austria_este 's offspring die ?	varese	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_death#varese#<end>#varese

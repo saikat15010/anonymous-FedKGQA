@@ -1,0 +1,24 @@
+the institution of father of thomas_lamb_eliot ?	harvard_divinity_school	thomas_lamb_eliot#parents#william_greenleaf_eliot#institution#harvard_divinity_school#<end>#harvard_divinity_school
+caesonia 's wife 's mother ?	germanicus	caesonia#spouse#caligula#parents#germanicus#<end>#germanicus
+andrey_bolshoy 's parents 's gender ?	male	andrey_bolshoy#parents#vasili_ii_of_russia#gender#male#<end>#male
+who is the offspring of tasha_tudor 's mom ?	tasha_tudor	tasha_tudor#parents#william_starling_burgess#children#tasha_tudor#<end>#tasha_tudor
+where is peter_van_pels 's mother living ?	lower_saxony	peter_van_pels#parents#hermann_van_pels#location#lower_saxony#<end>#lower_saxony
+matilda_of_flanders 's husband 's sex ?	male	matilda_of_flanders#spouse#william_i_of_england#gender#male#<end>#male
+chilperic_i 's couple 's sex ?	female	chilperic_i#spouse#fredegund#gender#female#<end>#female
+what is the name of the grandchildren of tiberius_nero ?	julius_caesar_drusus	tiberius_nero#children#tiberius#children#julius_caesar_drusus#<end>#julius_caesar_drusus
+what is the cause of death of nicholas_ii_of_russia 's kid ?	firearm	nicholas_ii_of_russia#children#grand_duchess_maria_nikolaevna_of_russia#cause_of_death#firearm#<end>#firearm
+where is louise_defeo 's daughter staying ?	new_york_state	louise_defeo#children#marc_defeo#location#new_york_state#<end>#new_york_state
+what is the nation of alexander_ii_of_russia 's mother ?	germany	alexander_ii_of_russia#parents#alexandra_fyodorovna#nationality#germany#<end>#germany
+what is the job of elizabeth_blair_lee 's darling ?	naval_officer	elizabeth_blair_lee#spouse#samuel_phillips_lee#profession#naval_officer#<end>#naval_officer
+verina 's wife 's gender ?	male	verina#spouse#leo_i#gender#male#<end>#male
+what is the organization of john_f_kennedy_jr 's dad ?	london_school_of_economics	john_f_kennedy_jr#parents#john_f_kennedy#institution#london_school_of_economics#<end>#london_school_of_economics
+what is the father of ellen_terry 's daughter ?	edward_william_godwin	ellen_terry#children#edith_craig#parents#edward_william_godwin#<end>#edward_william_godwin
+what is the marvin_pentz_gay_sr 's daughter 's race ?	african_american	marvin_pentz_gay_sr#children#marvin_gaye#ethnicity#african_american#<end>#african_american
+what is the child of son of duke_peter_of_oldenburg ?	grand_duke_nicholas_nicolaevich_the_younger	duke_peter_of_oldenburg#children#grand_duchess_alexandra_petrovna#children#grand_duke_nicholas_nicolaevich_the_younger#<end>#grand_duke_nicholas_nicolaevich_the_younger
+what is the gender of children of nicholas_ii_of_russia ?	female	nicholas_ii_of_russia#children#grand_duchess_maria_nikolaevna_of_russia#gender#female#<end>#female
+what sex is matilda_of_flanders 's husband  ?	male	matilda_of_flanders#spouse#william_i_of_england#gender#male#<end>#male
+what is the nation of children of frank_lloyd_wright ?	united_states	frank_lloyd_wright#children#lloyd_wright#nationality#united_states#<end>#united_states
+what is the gender of richard_mulligan 's darling ?	female	richard_mulligan#spouse#joan_hackett#gender#female#<end>#female
+the sex of child of david_kawananakoa ?	female	david_kawananakoa#children#abigail_kapiolani_kawananakoa#gender#female#<end>#female
+what is the andrey_bolshoy 's parents 's gender ?	male	andrey_bolshoy#parents#vasili_ii_of_russia#gender#male#<end>#male
+what is the nation of mae_west 's husband ?	united_states	mae_west#spouse#guido_deiro#nationality#united_states#<end>#united_states

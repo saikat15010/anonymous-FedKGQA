@@ -1,0 +1,77 @@
+how isabella_of_france 's dad died ?	animal_attack	isabella_of_france#parents#philip_iv_of_france#cause_of_death#animal_attack#<end>#animal_attack
+why skip_caray 's mother died ?	cardiovascular_disease	skip_caray#parents#harry_caray#cause_of_death#cardiovascular_disease#<end>#cardiovascular_disease
+what type of religion is james_hepburn_4th_earl_of_bothwell 's wife ?	catholicism	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#religion#catholicism#<end>#catholicism
+what is the charles_i_duke_of_burgundy 's wife 's child ?	mary_of_burgundy	charles_i_duke_of_burgundy#spouse#isabella_of_bourbon#children#mary_of_burgundy#<end>#mary_of_burgundy
+what is the husband of husband of james_hepburn_4th_earl_of_bothwell ?	francis_ii_of_france	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#spouse#francis_ii_of_france#<end>#francis_ii_of_france
+what is the infanta_maria_de_la_paz_of_spain 's other half 's father ?	infanta_amelia_philippina_of_spain	infanta_maria_de_la_paz_of_spain#spouse#prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#<end>#infanta_amelia_philippina_of_spain
+alva_belmont 's spouse 's parents ?	william_henry_vanderbilt	alva_belmont#spouse#william_kissam_vanderbilt#parents#william_henry_vanderbilt#<end>#william_henry_vanderbilt
+the cause of death of princess_tenagnework 's mom ?	allegedly_murdered	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#cause_of_death#allegedly_murdered#<end>#allegedly_murdered
+what is the martha_bulloch 's husband 's gender ?	male	martha_bulloch#spouse#theodore_roosevelt_sr#gender#male#<end>#male
+sam_marx 's child 's darling ?	susan_fleming	sam_marx#children#harpo_marx#spouse#susan_fleming#<end>#susan_fleming
+what is the sex of joseph_e_davies 's darling ?	female	joseph_e_davies#spouse#marjorie_merriweather_post#gender#female#<end>#female
+which nationality is roger_needham 's spouse ?	united_kingdom	roger_needham#spouse#karen_sparck_jones#nationality#united_kingdom#<end>#united_kingdom
+what is the occupation of parent of princess_tenagnework ?	monarch	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#profession#monarch#<end>#monarch
+the nation of child of svante_nilsson ?	sweden	svante_nilsson#children#sten_sture_the_younger#nationality#sweden#<end>#sweden
+what does elisabeth_of_austria_1526 's father do for a living?	holy_roman_emperor	elisabeth_of_austria_1526#parents#ferdinand_i_holy_roman_emperor#profession#holy_roman_emperor#<end>#holy_roman_emperor
+what is the gender of martha_bulloch 's husband ?	male	martha_bulloch#spouse#theodore_roosevelt_sr#gender#male#<end>#male
+where does caroline_benn 's other half come from ?	united_kingdom	caroline_benn#spouse#tony_benn#nationality#united_kingdom#<end>#united_kingdom
+what is the maria_theresa_of_austria 's offspring 's place of death ?	vienna	maria_theresa_of_austria#children#archduchess_maria_josepha_of_austria#place_of_death#vienna#<end>#vienna
+what is the husband of marie_of_edinburgh 's son ?	archduke_anton_prince_of_tuscany	marie_of_edinburgh#children#princess_ileana_of_romania#spouse#archduke_anton_prince_of_tuscany#<end>#archduke_anton_prince_of_tuscany
+what made the princess_tenagnework 's momdead ?	allegedly_murdered	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#cause_of_death#allegedly_murdered#<end>#allegedly_murdered
+what did skip_caray 's mother die from ?	cardiovascular_disease	skip_caray#parents#harry_caray#cause_of_death#cardiovascular_disease#<end>#cardiovascular_disease
+roger_needham 's husband 's profession ?	computer_scientist	roger_needham#spouse#karen_sparck_jones#profession#computer_scientist#<end>#computer_scientist
+what is the job of hermann_einstein 's kid ?	physician	hermann_einstein#children#maria_winteler_einstein#profession#physician#<end>#physician
+artavasdes_i_of_armenia 's offspring 's gender ?	male	artavasdes_i_of_armenia#children#tigranes_the_great#gender#male#<end>#male
+the sex of niels_bohr 's mother ?	male	niels_bohr#parents#christian_bohr#gender#male#<end>#male
+augustus_ii_the_strong 's offspring 's place of death ?	avignon	augustus_ii_the_strong#children#anna_orzelska#place_of_death#avignon#<end>#avignon
+what is the sex of william_ii_german_emperor 's dad ?	male	william_ii_german_emperor#parents#frederick_iii_german_emperor#gender#male#<end>#male
+what does skip_caray 's parents do ?	sportscaster	skip_caray#parents#harry_caray#profession#sportscaster#<end>#sportscaster
+what is the hermann_einstein 's other half 's nationality ?	germany	hermann_einstein#spouse#pauline_koch#nationality#germany#<end>#germany
+what is the princess_tenagnework 's father 's race ?	oromo	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#ethnicity#oromo#<end>#oromo
+what is the heir of mother of frits_philips ?	frits_philips	frits_philips#parents#anton_philips#children#frits_philips#<end>#frits_philips
+the kid of father of princess_tenagnework ?	princess_tsehai	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#children#princess_tsehai#<end>#princess_tsehai
+what is the philip_iii_of_navarre 's mom 's nation ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the cause of death of nicholas_ii_of_russia 's kid ?	firearm	nicholas_ii_of_russia#children#grand_duchess_maria_nikolaevna_of_russia#cause_of_death#firearm#<end>#firearm
+what religion does madhubala 's other half have ?	hinduism	madhubala#spouse#kishore_kumar#religion#hinduism#<end>#hinduism
+the place of birth of mom of anna_e_roosevelt ?	new_york	anna_e_roosevelt#parents#eleanor_roosevelt#place_of_birth#new_york#<end>#new_york
+what is the yongzheng_emperor 's offspring 's kid ?	jiaqing_emperor	yongzheng_emperor#children#qianlong_emperor#children#jiaqing_emperor#<end>#jiaqing_emperor
+what does princess_tenagnework 's parent do ?	monarch	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#profession#monarch#<end>#monarch
+what is the nation of alexander_ii_of_russia 's mother ?	germany	alexander_ii_of_russia#parents#alexandra_fyodorovna#nationality#germany#<end>#germany
+why justinus_van_nassau 's dad died ?	firearm	justinus_van_nassau#parents#william_the_silent#cause_of_death#firearm#<end>#firearm
+what is the gender of parents of lady_louisa_stuart ?	male	lady_louisa_stuart#parents#john_stuart_3rd_earl_of_bute#gender#male#<end>#male
+what is the sex of offspring of hermann_einstein ?	female	hermann_einstein#children#maria_winteler_einstein#gender#female#<end>#female
+constantine_xi 's dad 's sex ?	male	constantine_xi#parents#manuel_ii_palaiologos#gender#male#<end>#male
+the place of death of mom of william_ii_german_emperor ?	potsdam	william_ii_german_emperor#parents#frederick_iii_german_emperor#place_of_death#potsdam#<end>#potsdam
+what is the father of ellen_terry 's daughter ?	edward_william_godwin	ellen_terry#children#edith_craig#parents#edward_william_godwin#<end>#edward_william_godwin
+anne_of_great_britain 's couple 's nationality ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+the other half of isabella_of_france 's father ?	joan_i_of_navarre	isabella_of_france#parents#philip_iv_of_france#spouse#joan_i_of_navarre#<end>#joan_i_of_navarre
+what is the place of death of louis_xvi_of_france 's parents ?	chateau_de_fontainebleau	louis_xvi_of_france#parents#louis_dauphin_de_france#place_of_death#chateau_de_fontainebleau#<end>#chateau_de_fontainebleau
+where is hermann_einstein 's heir living ?	italy	hermann_einstein#children#maria_winteler_einstein#location#italy#<end>#italy
+the wife of marjorie_merriweather_post 's darling ?	marjorie_merriweather_post	marjorie_merriweather_post#spouse#joseph_e_davies#spouse#marjorie_merriweather_post#<end>#marjorie_merriweather_post
+what is the frederick_william_i_of_prussia 's son 's nationality ?	germany	frederick_william_i_of_prussia#children#frederick_ii_of_prussia#nationality#germany#<end>#germany
+what is the nationality of frederika_of_hanover 's parent ?	germany	frederika_of_hanover#parents#ernest_augustus_iii_duke_of_brunswick#nationality#germany#<end>#germany
+is constantine_xi 's dad a man or a woman ?	male	constantine_xi#parents#manuel_ii_palaiologos#gender#male#<end>#male
+what is the gender of children of nicholas_ii_of_russia ?	female	nicholas_ii_of_russia#children#grand_duchess_maria_nikolaevna_of_russia#gender#female#<end>#female
+what is the name of the spouse of mary_anna_custis_lee 's husband ?	mary_anna_custis_lee	mary_anna_custis_lee#spouse#robert_e_lee#spouse#mary_anna_custis_lee#<end>#mary_anna_custis_lee
+which nationality is hermann_einstein 's other half ?	germany	hermann_einstein#spouse#pauline_koch#nationality#germany#<end>#germany
+the gender of yixin_prince_gong 's father ?	male	yixin_prince_gong#parents#daoguang_emperor#gender#male#<end>#male
+what is the nationality of couple of anne_of_great_britain ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+the nation of roy_thomson_1st_baron_thomson_of_fleet 's daughter ?	canada	roy_thomson_1st_baron_thomson_of_fleet#children#kenneth_thomson_2nd_baron_thomson_of_fleet#nationality#canada#<end>#canada
+what is the gender of helena_of_moscow 's spouse ?	male	helena_of_moscow#spouse#alexander_jagiellon#gender#male#<end>#male
+the heir of mom of jenny_longuet ?	jenny_longuet	jenny_longuet#parents#jenny_von_westphalen#children#jenny_longuet#<end>#jenny_longuet
+what is the frederika_of_hanover 's parent 's nationality ?	germany	frederika_of_hanover#parents#ernest_augustus_iii_duke_of_brunswick#nationality#germany#<end>#germany
+where did the parents of louis_xvi_of_france die ?	chateau_de_fontainebleau	louis_xvi_of_france#parents#louis_dauphin_de_france#place_of_death#chateau_de_fontainebleau#<end>#chateau_de_fontainebleau
+where does philip_iii_of_navarre 's mom come from ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+the nation of father of catherine_carey ?	kingdom_of_england	catherine_carey#parents#mary_boleyn#nationality#kingdom_of_england#<end>#kingdom_of_england
+what is the archduchess_maria_beatrix_of_austria_este 's children 's place of birth ?	ljubljana	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_birth#ljubljana#<end>#ljubljana
+what is the son of niels_bohr 's parents ?	harald_bohr	niels_bohr#parents#christian_bohr#children#harald_bohr#<end>#harald_bohr
+the race of parent of simeon_uro ?	serbs	simeon_uro#parents#stefan_uro_iii_de_anski_of_serbia#ethnicity#serbs#<end>#serbs
+the nationality of couple of anne_of_great_britain ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+the sex of joseph_e_davies 's darling ?	female	joseph_e_davies#spouse#marjorie_merriweather_post#gender#female#<end>#female
+what is the princess_tenagnework 's father 's kid ?	princess_tsehai	princess_tenagnework#parents#haile_selassie_i_of_ethiopia#children#princess_tsehai#<end>#princess_tsehai
+what sex is adelaide_of_lowenstein_wertheim_rosenberg 's offspring  ?	female	adelaide_of_lowenstein_wertheim_rosenberg#children#maria_josepha_of_portugal#gender#female#<end>#female
+the gender of thutmose_iv 's parent ?	male	thutmose_iv#parents#amenhotep_ii#gender#male#<end>#male
+what did isabella_of_france 's dad die from ?	animal_attack	isabella_of_france#parents#philip_iv_of_france#cause_of_death#animal_attack#<end>#animal_attack
+what is the noble_consort_wan 's spouse 's daughter ?	jiaqing_emperor	noble_consort_wan#spouse#qianlong_emperor#children#jiaqing_emperor#<end>#jiaqing_emperor
+what city did archduchess_maria_beatrix_of_austria_este 's offspring die ?	varese	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_death#varese#<end>#varese
+what is the skip_caray 's parents 's address ?	st_louis_missouri	skip_caray#parents#harry_caray#location#st_louis_missouri#<end>#st_louis_missouri

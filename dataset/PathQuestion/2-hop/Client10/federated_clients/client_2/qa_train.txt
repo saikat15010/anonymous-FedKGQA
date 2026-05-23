@@ -1,0 +1,100 @@
+what sex is postumus_junior 's mother  ?	male	postumus_junior#parents#postumus#gender#male#<end>#male
+the nationality of marie_francois_sadi_carnot 's mother ?	france	marie_francois_sadi_carnot#parents#hippolyte_carnot#nationality#france#<end>#france
+who is the children of henry_i_duke_of_guise 's mother ?	charles_of_lorraine_duke_of_mayenne	henry_i_duke_of_guise#parents#anna_deste#children#charles_of_lorraine_duke_of_mayenne#<end>#charles_of_lorraine_duke_of_mayenne
+the sex of mother of postumus_junior ?	male	postumus_junior#parents#postumus#gender#male#<end>#male
+what is the spouse of henry_i_duke_of_guise 's mom ?	jacques_de_savoie_2nd_duc_de_nemours	henry_i_duke_of_guise#parents#anna_deste#spouse#jacques_de_savoie_2nd_duc_de_nemours#<end>#jacques_de_savoie_2nd_duc_de_nemours
+what is george_tabori 's couple 's ethnicity like ?	swedish_people	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_people#<end>#swedish_people
+what is the archduke_louis_of_austria 's parent 's son ?	archduke_joseph_of_austria_palatine_of_hungary	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#<end>#archduke_joseph_of_austria_palatine_of_hungary
+which nationality is gustaf_vi_adolf_of_sweden 's heir ?	sweden	gustaf_vi_adolf_of_sweden#children#prince_gustav_adolf_duke_of_vasterbotten#nationality#sweden#<end>#sweden
+what faith does george_of_saxony 's child have ?	roman_catholic_church	george_of_saxony#children#prince_johann_georg_of_saxony#religion#roman_catholic_church#<end>#roman_catholic_church
+the work of nissanka_wijeyeratne 's mother ?	diplomat	nissanka_wijeyeratne#parents#edwin_wijeyeratne#profession#diplomat#<end>#diplomat
+what is the sex of luis_munoz_marin 's darling ?	female	luis_munoz_marin#spouse#ines_mendoza#gender#female#<end>#female
+penelope_blount_countess_of_devonshire 's parent 's sex ?	male	penelope_blount_countess_of_devonshire#parents#walter_devereux_1st_earl_of_essex#gender#male#<end>#male
+archduchess_maria_beatrix_of_austria_este 's offspring 's place of death ?	varese	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_death#varese#<end>#varese
+archduke_louis_of_austria 's mother 's child ?	rudolf_cardinal_von_habsburg_lothringen	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#rudolf_cardinal_von_habsburg_lothringen#<end>#rudolf_cardinal_von_habsburg_lothringen
+the sex of penelope_blount_countess_of_devonshire 's parent ?	male	penelope_blount_countess_of_devonshire#parents#walter_devereux_1st_earl_of_essex#gender#male#<end>#male
+pedro_ii_of_brazil 's heir 's cause of death ?	yellow_fever	pedro_ii_of_brazil#children#afonso_prince_imperial_of_brazil#cause_of_death#yellow_fever#<end>#yellow_fever
+is ludwig_ii_of_bavaria 's parents a man or a woman ?	male	ludwig_ii_of_bavaria#parents#maximilian_ii_of_bavaria#gender#male#<end>#male
+the ethnicity of cleopatra_selene 's mom ?	greeks_in_egypt	cleopatra_selene#parents#cleopatra_vii_of_egypt#ethnicity#greeks_in_egypt#<end>#greeks_in_egypt
+what sex is vasili_i_of_russia 's parents  ?	female	vasili_i_of_russia#parents#eudoxia_of_moscow#gender#female#<end>#female
+what is the ethnicity of cleopatra_selene 's mom ?	greeks_in_egypt	cleopatra_selene#parents#cleopatra_vii_of_egypt#ethnicity#greeks_in_egypt#<end>#greeks_in_egypt
+what is the ethnicity of george_tabori 's couple ?	swedish_people	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_people#<end>#swedish_people
+what is the gustaf_vi_adolf_of_sweden 's heir 's nationality ?	sweden	gustaf_vi_adolf_of_sweden#children#prince_gustav_adolf_duke_of_vasterbotten#nationality#sweden#<end>#sweden
+what is the profession of louis_the_pious 's dad ?	emperor	louis_the_pious#parents#charlemagne#profession#emperor#<end>#emperor
+what faith does jewna 's heir have ?	paganism	jewna#children#algirdas#religion#paganism#<end>#paganism
+the place of birth of adolphus_busch_iii 's mom ?	st_louis_missouri	adolphus_busch_iii#parents#august_anheuser_busch_sr#place_of_birth#st_louis_missouri#<end>#st_louis_missouri
+what is the charles_duke_of_lower_lorraine 's father 's son ?	lothair_of_france	charles_duke_of_lower_lorraine#parents#louis_iv_of_france#children#lothair_of_france#<end>#lothair_of_france
+where did archduchess_maria_beatrix_of_austria_este 's offspring die ?	varese	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_death#varese#<end>#varese
+what does nissanka_wijeyeratne 's mother do ?	diplomat	nissanka_wijeyeratne#parents#edwin_wijeyeratne#profession#diplomat#<end>#diplomat
+the gender of heir of leopold_ii_holy_roman_emperor ?	male	leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#gender#male#<end>#male
+alexander_darcy 's wife 's profession ?	actor	alexander_darcy#spouse#arleen_whelan#profession#actor#<end>#actor
+what faith does george_of_saxony 's child follow ?	roman_catholic_church	george_of_saxony#children#prince_johann_georg_of_saxony#religion#roman_catholic_church#<end>#roman_catholic_church
+what is the name of the spouse of henry_i_duke_of_guise 's mom ?	jacques_de_savoie_2nd_duc_de_nemours	henry_i_duke_of_guise#parents#anna_deste#spouse#jacques_de_savoie_2nd_duc_de_nemours#<end>#jacques_de_savoie_2nd_duc_de_nemours
+what is the elizabeth_of_york 's darling 's wife ?	elizabeth_of_york	elizabeth_of_york#spouse#henry_vii_of_england#spouse#elizabeth_of_york#<end>#elizabeth_of_york
+the gender of philip_ii_of_taranto 's mother ?	male	philip_ii_of_taranto#parents#philip_i_of_taranto#gender#male#<end>#male
+the son of father of charles_duke_of_lower_lorraine ?	lothair_of_france	charles_duke_of_lower_lorraine#parents#louis_iv_of_france#children#lothair_of_france#<end>#lothair_of_france
+the gender of daughter of joseph_p_kennedy_sr ?	female	joseph_p_kennedy_sr#children#rosemary_kennedy#gender#female#<end>#female
+is jewna 's child a man or a woman ?	male	jewna#children#algirdas#gender#male#<end>#male
+is joseph_e_davies 's darling a man or a woman ?	female	joseph_e_davies#spouse#marjorie_merriweather_post#gender#female#<end>#female
+what is elizabeth_of_york 's other half ?	monarch	elizabeth_of_york#spouse#henry_vii_of_england#profession#monarch#<end>#monarch
+the child of archduke_louis_of_austria 's mother ?	rudolf_cardinal_von_habsburg_lothringen	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#rudolf_cardinal_von_habsburg_lothringen#<end>#rudolf_cardinal_von_habsburg_lothringen
+what is the children of mother of henry_i_duke_of_guise ?	charles_of_lorraine_duke_of_mayenne	henry_i_duke_of_guise#parents#anna_deste#children#charles_of_lorraine_duke_of_mayenne#<end>#charles_of_lorraine_duke_of_mayenne
+what killed the postumus_junior 's dad ?	assassination	postumus_junior#parents#postumus#cause_of_death#assassination#<end>#assassination
+what is the ethnicity of george_tabori 's darling ?	swedish_american	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_american#<end>#swedish_american
+what is the sex of parent of penelope_blount_countess_of_devonshire ?	male	penelope_blount_countess_of_devonshire#parents#walter_devereux_1st_earl_of_essex#gender#male#<end>#male
+the other half of alexander_darcy 's other half ?	alexander_darcy	alexander_darcy#spouse#arleen_whelan#spouse#alexander_darcy#<end>#alexander_darcy
+what is the occupation of other half of luis_munoz_marin ?	first_lady	luis_munoz_marin#spouse#ines_mendoza#profession#first_lady#<end>#first_lady
+the sex of child of jewna ?	male	jewna#children#algirdas#gender#male#<end>#male
+what is the nation of philip_iii_of_navarre 's mom ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the vasili_i_of_russia 's parents 's sex ?	female	vasili_i_of_russia#parents#eudoxia_of_moscow#gender#female#<end>#female
+henry_i_duke_of_guise 's mother 's dad ?	renee_of_france	henry_i_duke_of_guise#parents#anna_deste#parents#renee_of_france#<end>#renee_of_france
+what is the hometown of archduchess_maria_beatrix_of_austria_este 's children ?	ljubljana	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_birth#ljubljana#<end>#ljubljana
+what is the gender of mother of philip_ii_of_taranto ?	male	philip_ii_of_taranto#parents#philip_i_of_taranto#gender#male#<end>#male
+what is nissanka_wijeyeratne 's mother ?	diplomat	nissanka_wijeyeratne#parents#edwin_wijeyeratne#profession#diplomat#<end>#diplomat
+the sex of lovisa_of_sweden 's darling ?	male	lovisa_of_sweden#spouse#frederick_viii_of_denmark#gender#male#<end>#male
+the daughter of louise_elisabeth_of_orleans 's mom ?	duc_dorleans	louise_elisabeth_of_orleans#parents#francoise_marie_de_bourbon#children#duc_dorleans#<end>#duc_dorleans
+the son of archduke_louis_of_austria 's parent ?	archduke_joseph_of_austria_palatine_of_hungary	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#<end>#archduke_joseph_of_austria_palatine_of_hungary
+what is the benjamin_disraeli_1st_earl_of_beaconsfield 's darling 's gender ?	female	benjamin_disraeli_1st_earl_of_beaconsfield#spouse#mary_anne_disraeli_1st_viscountess_beaconsfield#gender#female#<end>#female
+what does louis_the_pious 's dad do for a living?	emperor	louis_the_pious#parents#charlemagne#profession#emperor#<end>#emperor
+what is the dad of henry_i_duke_of_guise 's mother ?	renee_of_france	henry_i_duke_of_guise#parents#anna_deste#parents#renee_of_france#<end>#renee_of_france
+what is the gender of leopold_ii_holy_roman_emperor 's heir ?	male	leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#gender#male#<end>#male
+why penelope_blount_countess_of_devonshire 's mom died ?	dysentery	penelope_blount_countess_of_devonshire#parents#walter_devereux_1st_earl_of_essex#cause_of_death#dysentery#<end>#dysentery
+what is the place of birth of adolphus_busch_iii 's mom ?	st_louis_missouri	adolphus_busch_iii#parents#august_anheuser_busch_sr#place_of_birth#st_louis_missouri#<end>#st_louis_missouri
+the place of birth of archduchess_maria_beatrix_of_austria_este 's children ?	ljubljana	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#place_of_birth#ljubljana#<end>#ljubljana
+is archduchess_maria_beatrix_of_austria_este 's son a man or a woman ?	male	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#gender#male#<end>#male
+the son of charles_duke_of_lower_lorraine 's father ?	lothair_of_france	charles_duke_of_lower_lorraine#parents#louis_iv_of_france#children#lothair_of_france#<end>#lothair_of_france
+what gender is philip_ii_of_taranto 's mother  ?	male	philip_ii_of_taranto#parents#philip_i_of_taranto#gender#male#<end>#male
+what is the work of kid of emperor_temmu ?	writer	emperor_temmu#children#empress_jito#profession#writer#<end>#writer
+what is the gender of benjamin_disraeli_1st_earl_of_beaconsfield 's darling ?	female	benjamin_disraeli_1st_earl_of_beaconsfield#spouse#mary_anne_disraeli_1st_viscountess_beaconsfield#gender#female#<end>#female
+what is the henry_i_duke_of_guise 's mother 's dad ?	renee_of_france	henry_i_duke_of_guise#parents#anna_deste#parents#renee_of_france#<end>#renee_of_france
+what is the name of the darling of joseph_e_davies 's other half ?	joseph_e_davies	joseph_e_davies#spouse#marjorie_merriweather_post#spouse#joseph_e_davies#<end>#joseph_e_davies
+what is the faith of jewna 's heir ?	paganism	jewna#children#algirdas#religion#paganism#<end>#paganism
+why postumus_junior 's dad died ?	assassination	postumus_junior#parents#postumus#cause_of_death#assassination#<end>#assassination
+the nationality of mom of diego_colon ?	italy	diego_colon#parents#christopher_columbus#nationality#italy#<end>#italy
+the cause of death of pedro_ii_of_brazil 's heir ?	yellow_fever	pedro_ii_of_brazil#children#afonso_prince_imperial_of_brazil#cause_of_death#yellow_fever#<end>#yellow_fever
+what is luis_munoz_marin 's other half working on ?	first_lady	luis_munoz_marin#spouse#ines_mendoza#profession#first_lady#<end>#first_lady
+what killed the penelope_blount_countess_of_devonshire 's mom ?	dysentery	penelope_blount_countess_of_devonshire#parents#walter_devereux_1st_earl_of_essex#cause_of_death#dysentery#<end>#dysentery
+what sex is ludwig_ii_of_bavaria 's parents  ?	male	ludwig_ii_of_bavaria#parents#maximilian_ii_of_bavaria#gender#male#<end>#male
+what is the alexander_darcy 's wife 's profession ?	actor	alexander_darcy#spouse#arleen_whelan#profession#actor#<end>#actor
+what is the george_tabori 's darling 's ethnicity ?	swedish_american	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_american#<end>#swedish_american
+what is the child of archduke_louis_of_austria 's mother ?	rudolf_cardinal_von_habsburg_lothringen	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#rudolf_cardinal_von_habsburg_lothringen#<end>#rudolf_cardinal_von_habsburg_lothringen
+what is the sex of archduchess_maria_beatrix_of_austria_este 's son ?	male	archduchess_maria_beatrix_of_austria_este#children#carlos_duke_of_madrid#gender#male#<end>#male
+what is the son of parent of archduke_louis_of_austria ?	archduke_joseph_of_austria_palatine_of_hungary	archduke_louis_of_austria#parents#leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#<end>#archduke_joseph_of_austria_palatine_of_hungary
+who is the darling of joseph_e_davies 's other half ?	joseph_e_davies	joseph_e_davies#spouse#marjorie_merriweather_post#spouse#joseph_e_davies#<end>#joseph_e_davies
+where does marie_francois_sadi_carnot 's mother come from ?	france	marie_francois_sadi_carnot#parents#hippolyte_carnot#nationality#france#<end>#france
+what is the nationality of mom of diego_colon ?	italy	diego_colon#parents#christopher_columbus#nationality#italy#<end>#italy
+what is the darling of other half of joseph_e_davies ?	joseph_e_davies	joseph_e_davies#spouse#marjorie_merriweather_post#spouse#joseph_e_davies#<end>#joseph_e_davies
+is leopold_ii_holy_roman_emperor 's heir a man or a woman ?	male	leopold_ii_holy_roman_emperor#children#archduke_joseph_of_austria_palatine_of_hungary#gender#male#<end>#male
+what is the spouse of mom of henry_i_duke_of_guise ?	jacques_de_savoie_2nd_duc_de_nemours	henry_i_duke_of_guise#parents#anna_deste#spouse#jacques_de_savoie_2nd_duc_de_nemours#<end>#jacques_de_savoie_2nd_duc_de_nemours
+what is the sex of parents of ludwig_ii_of_bavaria ?	male	ludwig_ii_of_bavaria#parents#maximilian_ii_of_bavaria#gender#male#<end>#male
+is lovisa_of_sweden 's darling a man or a woman ?	male	lovisa_of_sweden#spouse#frederick_viii_of_denmark#gender#male#<end>#male
+what gender is joseph_p_kennedy_sr 's daughter  ?	female	joseph_p_kennedy_sr#children#rosemary_kennedy#gender#female#<end>#female
+what is george_tabori 's couple 's ethnicity about ?	swedish_people	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_people#<end>#swedish_people
+the gender of joseph_p_kennedy_sr 's daughter ?	female	joseph_p_kennedy_sr#children#rosemary_kennedy#gender#female#<end>#female
+what is the sex of lovisa_of_sweden 's darling ?	male	lovisa_of_sweden#spouse#frederick_viii_of_denmark#gender#male#<end>#male
+what is the luis_munoz_marin 's darling 's sex ?	female	luis_munoz_marin#spouse#ines_mendoza#gender#female#<end>#female
+luis_munoz_marin 's other half 's occupation ?	first_lady	luis_munoz_marin#spouse#ines_mendoza#profession#first_lady#<end>#first_lady
+what is the cleopatra_selene 's mom 's ethnicity ?	greeks_in_egypt	cleopatra_selene#parents#cleopatra_vii_of_egypt#ethnicity#greeks_in_egypt#<end>#greeks_in_egypt
+diego_colon 's mother 's heir ?	fernando_colon	diego_colon#parents#christopher_columbus#children#fernando_colon#<end>#fernando_colon
+the heir of diego_colon 's mother ?	fernando_colon	diego_colon#parents#christopher_columbus#children#fernando_colon#<end>#fernando_colon
+what faith does jewna 's heir practice ?	paganism	jewna#children#algirdas#religion#paganism#<end>#paganism

@@ -1,0 +1,20 @@
+what is the martha_bulloch 's husband 's gender ?	male	martha_bulloch#spouse#theodore_roosevelt_sr#gender#male#<end>#male
+which nationality is roger_needham 's spouse ?	united_kingdom	roger_needham#spouse#karen_sparck_jones#nationality#united_kingdom#<end>#united_kingdom
+what is the gender of martha_bulloch 's husband ?	male	martha_bulloch#spouse#theodore_roosevelt_sr#gender#male#<end>#male
+where does caroline_benn 's other half come from ?	united_kingdom	caroline_benn#spouse#tony_benn#nationality#united_kingdom#<end>#united_kingdom
+what is chagatai_khan 's parent 's race like ?	mongols	chagatai_khan#parents#genghis_khan#ethnicity#mongols#<end>#mongols
+roger_needham 's husband 's profession ?	computer_scientist	roger_needham#spouse#karen_sparck_jones#profession#computer_scientist#<end>#computer_scientist
+the place of birth of pierre_curie 's children ?	paris	pierre_curie#children#irene_joliot-curie#place_of_birth#paris#<end>#paris
+what is the race of chagatai_khan 's parent ?	mongols	chagatai_khan#parents#genghis_khan#ethnicity#mongols#<end>#mongols
+what is the grand_duchess_alexandra_petrovna 's daughter 's other half ?	anastasia_of_montenegro	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#<end>#anastasia_of_montenegro
+is pierre_curie 's child a man or a woman ?	female	pierre_curie#children#irene_joliot-curie#gender#female#<end>#female
+what is henry_viii_of_england 's father ?	monarch	henry_viii_of_england#parents#henry_vii_of_england#profession#monarch#<end>#monarch
+what religion does madhubala 's other half have ?	hinduism	madhubala#spouse#kishore_kumar#religion#hinduism#<end>#hinduism
+the place of birth of mom of anna_e_roosevelt ?	new_york	anna_e_roosevelt#parents#eleanor_roosevelt#place_of_birth#new_york#<end>#new_york
+what is the cause of death of carole_lombard 's couple ?	myocardial_infarction	carole_lombard#spouse#clark_gable#cause_of_death#myocardial_infarction#<end>#myocardial_infarction
+what line of business is henry_viii_of_england 's father in ?	monarch	henry_viii_of_england#parents#henry_vii_of_england#profession#monarch#<end>#monarch
+what does wladyslaw_czartoryski 's parent do ?	politician	wladyslaw_czartoryski#parents#adam_jerzy_czartoryski#profession#politician#<end>#politician
+the nation of father of catherine_carey ?	kingdom_of_england	catherine_carey#parents#mary_boleyn#nationality#kingdom_of_england#<end>#kingdom_of_england
+where did constantine_viii 's offspring die ?	constantinople	constantine_viii#children#theodora_0984#place_of_death#constantinople#<end>#constantinople
+the gender of thutmose_iv 's parent ?	male	thutmose_iv#parents#amenhotep_ii#gender#male#<end>#male
+what is the gender of dad of frederick_edward_guest ?	male	frederick_edward_guest#parents#ivor_churchill_guest_1st_viscount_wimborne#gender#male#<end>#male

@@ -1,0 +1,30 @@
+what is the charles_i_duke_of_burgundy 's wife 's child ?	mary_of_burgundy	charles_i_duke_of_burgundy#spouse#isabella_of_bourbon#children#mary_of_burgundy#<end>#mary_of_burgundy
+what is the prince_alexander_of_hesse_and_by_rhine 's children 's gender ?	male	prince_alexander_of_hesse_and_by_rhine#children#alexander_prince_of_bulgaria#gender#male#<end>#male
+who is the grandchild of albert_of_saxe-coburg_and_gotha ?	victoria_eugenia_of_battenberg	albert_of_saxe-coburg_and_gotha#children#princess_beatrice_of_the_united_kingdom#children#victoria_eugenia_of_battenberg#<end>#victoria_eugenia_of_battenberg
+nathan_mayer_rothschild 's son 's profession ?	politician	nathan_mayer_rothschild#children#lionel_de_rothschild#profession#politician#<end>#politician
+what is the princess_margaret_of_prussia 's parents 's place of death ?	potsdam	princess_margaret_of_prussia#parents#frederick_iii_german_emperor#place_of_death#potsdam#<end>#potsdam
+what is william_talbot 's daughter ?	lawyer	william_talbot#children#charles_talbot_1st_baron_talbot_of_hensol#profession#lawyer#<end>#lawyer
+what is the lady_sarah_wilson 's mom 's nation ?	united_kingdom	lady_sarah_wilson#parents#john_spencer_churchill_7th_duke_of_marlborough#nationality#united_kingdom#<end>#united_kingdom
+is huey_long 's wife a man or a woman ?	female	huey_long#spouse#rose_mcconnell_long#gender#female#<end>#female
+what is the husband of marie_of_edinburgh 's son ?	archduke_anton_prince_of_tuscany	marie_of_edinburgh#children#princess_ileana_of_romania#spouse#archduke_anton_prince_of_tuscany#<end>#archduke_anton_prince_of_tuscany
+the nation of nathan_mayer_rothschild 's daughter ?	united_kingdom	nathan_mayer_rothschild#children#lionel_de_rothschild#nationality#united_kingdom#<end>#united_kingdom
+what is the samuel_gridley_howe 's other half 's gender ?	female	samuel_gridley_howe#spouse#julia_ward_howe#gender#female#<end>#female
+the nation of parent of john_i_of_denmark ?	germany	john_i_of_denmark#parents#dorothea_of_brandenburg#nationality#germany#<end>#germany
+is kalama 's darling a man or a woman ?	male	kalama#spouse#kamehameha_iii#gender#male#<end>#male
+the gender of samuel_gridley_howe 's other half ?	female	samuel_gridley_howe#spouse#julia_ward_howe#gender#female#<end>#female
+what is the name of the offspring of lady_sarah_wilson 's parent ?	lord_randolph_churchill	lady_sarah_wilson#parents#john_spencer_churchill_7th_duke_of_marlborough#children#lord_randolph_churchill#<end>#lord_randolph_churchill
+the place of death of parents of princess_margaret_of_prussia ?	potsdam	princess_margaret_of_prussia#parents#frederick_iii_german_emperor#place_of_death#potsdam#<end>#potsdam
+the place of birth of alice_of_bourbon_parma 's wife ?	florence	alice_of_bourbon_parma#spouse#ferdinand_iv_grand_duke_of_tuscany#place_of_birth#florence#<end>#florence
+phillip_terry 's husband 's nation ?	france	phillip_terry#spouse#joan_crawford#nationality#france#<end>#france
+the gender of parent of princess_margaret_of_prussia ?	male	princess_margaret_of_prussia#parents#frederick_iii_german_emperor#gender#male#<end>#male
+what is the frederick_william_i_of_prussia 's son 's nationality ?	germany	frederick_william_i_of_prussia#children#frederick_ii_of_prussia#nationality#germany#<end>#germany
+is samuel_gridley_howe 's darling a man or a woman ?	male	samuel_gridley_howe#spouse#julia_ward_howe#gender#male#<end>#male
+what is the gender of father of mikolaj_vii_radziwill ?	female	mikolaj_vii_radziwill#parents#katarzyna_tomicka#gender#female#<end>#female
+samuel_gridley_howe 's other half 's gender ?	female	samuel_gridley_howe#spouse#julia_ward_howe#gender#female#<end>#female
+the gender of yixin_prince_gong 's father ?	male	yixin_prince_gong#parents#daoguang_emperor#gender#male#<end>#male
+what is the religious belief of samuel_gridley_howe 's husband ?	unitarian_universalism	samuel_gridley_howe#spouse#julia_ward_howe#religion#unitarian_universalism#<end>#unitarian_universalism
+what is the bettye_ackerman 's spouse 's nation ?	united_states	bettye_ackerman#spouse#sam_jaffe_1891#nationality#united_states#<end>#united_states
+what line of business is nathan_mayer_rothschild 's son in ?	politician	nathan_mayer_rothschild#children#lionel_de_rothschild#profession#politician#<end>#politician
+julie_london 's couple 's nation ?	united_states	julie_london#spouse#bobby_troup#nationality#united_states#<end>#united_states
+frank_reicher 's dad 's nation ?	germany	frank_reicher#parents#emanuel_reicher#nationality#germany#<end>#germany
+what is the name of the couple of julie_london 's couple ?	julie_london	julie_london#spouse#bobby_troup#spouse#julie_london#<end>#julie_london

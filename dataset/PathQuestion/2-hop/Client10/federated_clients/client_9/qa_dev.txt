@@ -1,0 +1,28 @@
+charles_a_wickliffe 's kid 's father ?	charles_a_wickliffe	charles_a_wickliffe#children#robert_c_wickliffe#parents#charles_a_wickliffe#<end>#charles_a_wickliffe
+leonora_of_england 's mom 's daughter ?	geoffrey_ii_duke_of_brittany	leonora_of_england#parents#eleanor_of_aquitaine#children#geoffrey_ii_duke_of_brittany#<end>#geoffrey_ii_duke_of_brittany
+what is the kid of parents of qianlong_emperor ?	qianlong_emperor	qianlong_emperor#parents#yongzheng_emperor#children#qianlong_emperor#<end>#qianlong_emperor
+what is the father of charles_a_wickliffe 's kid ?	charles_a_wickliffe	charles_a_wickliffe#children#robert_c_wickliffe#parents#charles_a_wickliffe#<end>#charles_a_wickliffe
+what is john_b_kelly_sr 's son working on ?	fashion_model	john_b_kelly_sr#children#grace_kelly#profession#fashion_model#<end>#fashion_model
+what is the maria_theresa_of_austria 's offspring 's place of death ?	vienna	maria_theresa_of_austria#children#archduchess_maria_josepha_of_austria#place_of_death#vienna#<end>#vienna
+what is ethel_lilian_voynich 's parent working on ?	mathematician	ethel_lilian_voynich#parents#george_boole#profession#mathematician#<end>#mathematician
+what is the children of p_j_kennedy 's daughter ?	rosemary_kennedy	p_j_kennedy#children#joseph_p_kennedy_sr#children#rosemary_kennedy#<end>#rosemary_kennedy
+what is the nationality of grand_duke_michael_mihailovich_of_russia 's child ?	united_kingdom	grand_duke_michael_mihailovich_of_russia#children#nadejda_mountbatten_marchioness_of_milford_haven#nationality#united_kingdom#<end>#united_kingdom
+what is the heir of mother of frits_philips ?	frits_philips	frits_philips#parents#anton_philips#children#frits_philips#<end>#frits_philips
+where did the father of roy_e_disney die ?	burbank	roy_e_disney#parents#roy_o_disney#place_of_death#burbank#<end>#burbank
+what is the sarah_lennox_duchess_of_richmond 's kid 's gender ?	male	sarah_lennox_duchess_of_richmond#children#charles_lennox_3rd_duke_of_richmond#gender#male#<end>#male
+why justinus_van_nassau 's dad died ?	firearm	justinus_van_nassau#parents#william_the_silent#cause_of_death#firearm#<end>#firearm
+what is the name of the heir of catherine_of_braganza 's parent ?	teodosio_prince_of_brazil	catherine_of_braganza#parents#john_iv_of_portugal#children#teodosio_prince_of_brazil#<end>#teodosio_prince_of_brazil
+what is the sex of qianlong_emperor 's daughter ?	male	qianlong_emperor#children#jiaqing_emperor#gender#male#<end>#male
+what is the place of death of louis_xvi_of_france 's parents ?	chateau_de_fontainebleau	louis_xvi_of_france#parents#louis_dauphin_de_france#place_of_death#chateau_de_fontainebleau#<end>#chateau_de_fontainebleau
+what is the profession of gheorghe_i_tasca 's child ?	politician	gheorghe_i_tasca#children#gheorghe_tasca#profession#politician#<end>#politician
+what is the work of father of mette_marit_crown_princess_of_norway ?	journalist	mette_marit_crown_princess_of_norway#parents#sven_o_hoiby#profession#journalist#<end>#journalist
+what is the reason of maria_adelaide_of_austria 's child's death ?	tyrannicide	maria_adelaide_of_austria#children#umberto_i_of_italy#cause_of_death#tyrannicide#<end>#tyrannicide
+what gender is cecilia_renata_of_austria 's husband  ?	male	cecilia_renata_of_austria#spouse#wladyslaw_iv_vasa#gender#male#<end>#male
+the nation of roy_thomson_1st_baron_thomson_of_fleet 's daughter ?	canada	roy_thomson_1st_baron_thomson_of_fleet#children#kenneth_thomson_2nd_baron_thomson_of_fleet#nationality#canada#<end>#canada
+what is the sex of spouse of mary_stuart_countess_of_bute ?	male	mary_stuart_countess_of_bute#spouse#john_stuart_3rd_earl_of_bute#gender#male#<end>#male
+where did the parents of louis_xvi_of_france die ?	chateau_de_fontainebleau	louis_xvi_of_france#parents#louis_dauphin_de_france#place_of_death#chateau_de_fontainebleau#<end>#chateau_de_fontainebleau
+what is the henry_of_scotland_3rd_earl_of_huntingdon 's offspring 's nation ?	kingdom_of_scotland	henry_of_scotland_3rd_earl_of_huntingdon#children#william_i_of_scotland#nationality#kingdom_of_scotland#<end>#kingdom_of_scotland
+what is the work of mette_marit_crown_princess_of_norway 's father ?	journalist	mette_marit_crown_princess_of_norway#parents#sven_o_hoiby#profession#journalist#<end>#journalist
+the children of daughter of p_j_kennedy ?	rosemary_kennedy	p_j_kennedy#children#joseph_p_kennedy_sr#children#rosemary_kennedy#<end>#rosemary_kennedy
+who is the daughter of leonora_of_england 's mom ?	geoffrey_ii_duke_of_brittany	leonora_of_england#parents#eleanor_of_aquitaine#children#geoffrey_ii_duke_of_brittany#<end>#geoffrey_ii_duke_of_brittany
+what gender is benjamin_harrison 's other half  ?	female	benjamin_harrison#spouse#mary_dimmick_harrison#gender#female#<end>#female

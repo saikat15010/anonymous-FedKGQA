@@ -1,0 +1,81 @@
+the father of henry_iii_holy_roman_emperor 's children ?	henry_iii_holy_roman_emperor	henry_iii_holy_roman_emperor#children#henry_iv_holy_roman_emperor#parents#henry_iii_holy_roman_emperor#<end>#henry_iii_holy_roman_emperor
+what type of religion is james_hepburn_4th_earl_of_bothwell 's wife ?	catholicism	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#religion#catholicism#<end>#catholicism
+what is the charles_i_duke_of_burgundy 's wife 's child ?	mary_of_burgundy	charles_i_duke_of_burgundy#spouse#isabella_of_bourbon#children#mary_of_burgundy#<end>#mary_of_burgundy
+what is the husband of husband of james_hepburn_4th_earl_of_bothwell ?	francis_ii_of_france	james_hepburn_4th_earl_of_bothwell#spouse#mary_i_of_scotland#spouse#francis_ii_of_france#<end>#francis_ii_of_france
+what line of business is louis_the_pious 's dad in ?	emperor	louis_the_pious#parents#charlemagne#profession#emperor#<end>#emperor
+what is the infanta_maria_de_la_paz_of_spain 's other half 's father ?	infanta_amelia_philippina_of_spain	infanta_maria_de_la_paz_of_spain#spouse#prince_louis_ferdinand_of_bavaria#parents#infanta_amelia_philippina_of_spain#<end>#infanta_amelia_philippina_of_spain
+alva_belmont 's spouse 's parents ?	william_henry_vanderbilt	alva_belmont#spouse#william_kissam_vanderbilt#parents#william_henry_vanderbilt#<end>#william_henry_vanderbilt
+what is the prince_alexander_of_hesse_and_by_rhine 's children 's gender ?	male	prince_alexander_of_hesse_and_by_rhine#children#alexander_prince_of_bulgaria#gender#male#<end>#male
+who is the grandchild of albert_of_saxe-coburg_and_gotha ?	victoria_eugenia_of_battenberg	albert_of_saxe-coburg_and_gotha#children#princess_beatrice_of_the_united_kingdom#children#victoria_eugenia_of_battenberg#<end>#victoria_eugenia_of_battenberg
+nathan_mayer_rothschild 's son 's profession ?	politician	nathan_mayer_rothschild#children#lionel_de_rothschild#profession#politician#<end>#politician
+andrey_bolshoy 's parents 's gender ?	male	andrey_bolshoy#parents#vasili_ii_of_russia#gender#male#<end>#male
+sam_marx 's child 's darling ?	susan_fleming	sam_marx#children#harpo_marx#spouse#susan_fleming#<end>#susan_fleming
+which nationality is roger_needham 's spouse ?	united_kingdom	roger_needham#spouse#karen_sparck_jones#nationality#united_kingdom#<end>#united_kingdom
+what is the cause of death of daughter of james_otis_sr ?	lightning	james_otis_sr#children#james_otis#cause_of_death#lightning#<end>#lightning
+is lothair_of_france 's dad a man or a woman ?	female	lothair_of_france#parents#gerberga_of_saxony#gender#female#<end>#female
+what is william_talbot 's daughter ?	lawyer	william_talbot#children#charles_talbot_1st_baron_talbot_of_hensol#profession#lawyer#<end>#lawyer
+charles_i_of_england 's heir 's gender ?	female	charles_i_of_england#children#princess_elizabeth_of_england#gender#female#<end>#female
+what is the child of parent of shah_shuja ?	shah_shuja	shah_shuja#parents#mumtaz_mahal#children#shah_shuja#<end>#shah_shuja
+roger_needham 's husband 's profession ?	computer_scientist	roger_needham#spouse#karen_sparck_jones#profession#computer_scientist#<end>#computer_scientist
+where does robert_c_wickliffe 's parent come from ?	united_states	robert_c_wickliffe#parents#charles_a_wickliffe#nationality#united_states#<end>#united_states
+the place of birth of pierre_curie 's children ?	paris	pierre_curie#children#irene_joliot-curie#place_of_birth#paris#<end>#paris
+the nation of nathan_mayer_rothschild 's daughter ?	united_kingdom	nathan_mayer_rothschild#children#lionel_de_rothschild#nationality#united_kingdom#<end>#united_kingdom
+which nationality is peter_sellers 's spouse ?	england	peter_sellers#spouse#lynne_frederick#nationality#england#<end>#england
+what is the sex of techichpotzin 's mother ?	male	techichpotzin#parents#moctezuma_ii#gender#male#<end>#male
+which city did adolphus_busch_iii 's mom born ?	st_louis_missouri	adolphus_busch_iii#parents#august_anheuser_busch_sr#place_of_birth#st_louis_missouri#<end>#st_louis_missouri
+what is the cause of death of louise_juliana_of_nassau 's dad ?	assassination	louise_juliana_of_nassau#parents#william_the_silent#cause_of_death#assassination#<end>#assassination
+the son of parent of robert_c_wickliffe ?	robert_c_wickliffe	robert_c_wickliffe#parents#charles_a_wickliffe#children#robert_c_wickliffe#<end>#robert_c_wickliffe
+what is the name of the darling of robert_e_lee 's husband ?	robert_e_lee	robert_e_lee#spouse#mary_anna_custis_lee#spouse#robert_e_lee#<end>#robert_e_lee
+artavasdes_i_of_armenia 's offspring 's gender ?	male	artavasdes_i_of_armenia#children#tigranes_the_great#gender#male#<end>#male
+what city did maria_luisa_of_parma 's offspring die ?	trieste	maria_luisa_of_parma#children#infante_carlos_count_of_molina#place_of_death#trieste#<end>#trieste
+who is the granddaughter of archduke_carl_ludwig_of_austria ?	prince_ernst_von_hohenberg	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#children#prince_ernst_von_hohenberg#<end>#prince_ernst_von_hohenberg
+is kalama 's darling a man or a woman ?	male	kalama#spouse#kamehameha_iii#gender#male#<end>#male
+what is the grand_duchess_alexandra_petrovna 's daughter 's other half ?	anastasia_of_montenegro	grand_duchess_alexandra_petrovna#children#grand_duke_peter_nicolaievich_of_russia#spouse#anastasia_of_montenegro#<end>#anastasia_of_montenegro
+takelot_iii 's parent 's daughter ?	takelot_iii	takelot_iii#parents#osorkon_iii#children#takelot_iii#<end>#takelot_iii
+what is the sex of william_ii_german_emperor 's dad ?	male	william_ii_german_emperor#parents#frederick_iii_german_emperor#gender#male#<end>#male
+what religious belief does charles_ferdinand_duc_de_berry 's mother have ?	catholicism	charles_ferdinand_duc_de_berry#parents#charles_x_of_france#religion#catholicism#<end>#catholicism
+what is the william_of_winchester_lord_of_lunenburg 's daughter 's sex ?	male	william_of_winchester_lord_of_lunenburg#children#otto_i_duke_of_brunswick_luneburg#gender#male#<end>#male
+is pierre_curie 's child a man or a woman ?	female	pierre_curie#children#irene_joliot-curie#gender#female#<end>#female
+princess_sibylla_of_saxe-coburg_and_gotha 's other half 's nationality ?	sweden	princess_sibylla_of_saxe-coburg_and_gotha#spouse#prince_gustav_adolf_duke_of_vasterbotten#nationality#sweden#<end>#sweden
+what city did anna_lee 's darling die ?	santa_barbara	anna_lee#spouse#robert_stevenson_1905#place_of_death#santa_barbara#<end>#santa_barbara
+what is the philip_iii_of_navarre 's mom 's nation ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the nationality of marie_francois_sadi_carnot 's mother ?	france	marie_francois_sadi_carnot#parents#hippolyte_carnot#nationality#france#<end>#france
+what is henry_viii_of_england 's father ?	monarch	henry_viii_of_england#parents#henry_vii_of_england#profession#monarch#<end>#monarch
+where is louise_defeo 's daughter staying ?	new_york_state	louise_defeo#children#marc_defeo#location#new_york_state#<end>#new_york_state
+what did evelyn_keyes 's husband die from ?	diabetes_mellitus	evelyn_keyes#spouse#artie_shaw#cause_of_death#diabetes_mellitus#<end>#diabetes_mellitus
+verina 's wife 's gender ?	male	verina#spouse#leo_i#gender#male#<end>#male
+the place of death of mom of william_ii_german_emperor ?	potsdam	william_ii_german_emperor#parents#frederick_iii_german_emperor#place_of_death#potsdam#<end>#potsdam
+what is the ethnicity of darling of george_tabori ?	swedish_american	george_tabori#spouse#viveca_lindfors#ethnicity#swedish_american#<end>#swedish_american
+phillip_terry 's husband 's nation ?	france	phillip_terry#spouse#joan_crawford#nationality#france#<end>#france
+what line of business is henry_viii_of_england 's father in ?	monarch	henry_viii_of_england#parents#henry_vii_of_england#profession#monarch#<end>#monarch
+what is the occupation of offspring of frances_polidori ?	illustrator	frances_polidori#children#dante_gabriel_rossetti#profession#illustrator#<end>#illustrator
+what is the work of father of mette_marit_crown_princess_of_norway ?	journalist	mette_marit_crown_princess_of_norway#parents#sven_o_hoiby#profession#journalist#<end>#journalist
+who is the daughter of louise_elisabeth_of_orleans 's mom ?	duc_dorleans	louise_elisabeth_of_orleans#parents#francoise_marie_de_bourbon#children#duc_dorleans#<end>#duc_dorleans
+archduke_carl_ludwig_of_austria 's offspring 's cause of death ?	firearm	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#cause_of_death#firearm#<end>#firearm
+what is the reason of maria_adelaide_of_austria 's child's death ?	tyrannicide	maria_adelaide_of_austria#children#umberto_i_of_italy#cause_of_death#tyrannicide#<end>#tyrannicide
+what is the name of the spouse of mary_anna_custis_lee 's husband ?	mary_anna_custis_lee	mary_anna_custis_lee#spouse#robert_e_lee#spouse#mary_anna_custis_lee#<end>#mary_anna_custis_lee
+what is the archduke_carl_ludwig_of_austria 's child 's daughter ?	prince_ernst_von_hohenberg	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#children#prince_ernst_von_hohenberg#<end>#prince_ernst_von_hohenberg
+what does cosima_wagner 's offspring do for a living?	conducting	cosima_wagner#children#siegfried_wagner#profession#conducting#<end>#conducting
+what gender is cecilia_renata_of_austria 's husband  ?	male	cecilia_renata_of_austria#spouse#wladyslaw_iv_vasa#gender#male#<end>#male
+what faith is george_of_saxony 's child ?	roman_catholic_church	george_of_saxony#children#prince_johann_georg_of_saxony#religion#roman_catholic_church#<end>#roman_catholic_church
+what is the gender of helena_of_moscow 's spouse ?	male	helena_of_moscow#spouse#alexander_jagiellon#gender#male#<end>#male
+the heir of mom of jenny_longuet ?	jenny_longuet	jenny_longuet#parents#jenny_von_westphalen#children#jenny_longuet#<end>#jenny_longuet
+what is the name of the daughter of louise_elisabeth_of_orleans 's mom ?	duc_dorleans	louise_elisabeth_of_orleans#parents#francoise_marie_de_bourbon#children#duc_dorleans#<end>#duc_dorleans
+what is the work of buster_keaton 's parents ?	actor	buster_keaton#parents#joe_keaton#profession#actor#<end>#actor
+where does philip_iii_of_navarre 's mom come from ?	france	philip_iii_of_navarre#parents#louis_devreux#nationality#france#<end>#france
+what is the nation of children of frank_lloyd_wright ?	united_states	frank_lloyd_wright#children#lloyd_wright#nationality#united_states#<end>#united_states
+what is the bettye_ackerman 's spouse 's nation ?	united_states	bettye_ackerman#spouse#sam_jaffe_1891#nationality#united_states#<end>#united_states
+what is the henry_of_scotland_3rd_earl_of_huntingdon 's offspring 's nation ?	kingdom_of_scotland	henry_of_scotland_3rd_earl_of_huntingdon#children#william_i_of_scotland#nationality#kingdom_of_scotland#<end>#kingdom_of_scotland
+the place of birth of child of archduke_carl_ludwig_of_austria ?	graz	archduke_carl_ludwig_of_austria#children#archduke_franz_ferdinand_of_austria#place_of_birth#graz#<end>#graz
+what line of business is nathan_mayer_rothschild 's son in ?	politician	nathan_mayer_rothschild#children#lionel_de_rothschild#profession#politician#<end>#politician
+what is the work of mette_marit_crown_princess_of_norway 's father ?	journalist	mette_marit_crown_princess_of_norway#parents#sven_o_hoiby#profession#journalist#<end>#journalist
+christian_x_of_denmark 's kid 's sex ?	male	christian_x_of_denmark#children#frederick_ix_of_denmark#gender#male#<end>#male
+what is the gender of richard_mulligan 's darling ?	female	richard_mulligan#spouse#joan_hackett#gender#female#<end>#female
+the sex of child of david_kawananakoa ?	female	david_kawananakoa#children#abigail_kapiolani_kawananakoa#gender#female#<end>#female
+what is the andrey_bolshoy 's parents 's gender ?	male	andrey_bolshoy#parents#vasili_ii_of_russia#gender#male#<end>#male
+julie_london 's couple 's nation ?	united_states	julie_london#spouse#bobby_troup#nationality#united_states#<end>#united_states
+what is the child of prince_feodor_alexandrovich_of_russia 's parent ?	prince_andrei_alexandrovich_of_russia	prince_feodor_alexandrovich_of_russia#parents#grand_duke_alexander_mikhailovich_of_russia#children#prince_andrei_alexandrovich_of_russia#<end>#prince_andrei_alexandrovich_of_russia
+the nationality of vratislaus_ii_of_bohemia 's mom ?	germany	vratislaus_ii_of_bohemia#parents#judith_of_schweinfurt#nationality#germany#<end>#germany
+what is the name of the couple of julie_london 's couple ?	julie_london	julie_london#spouse#bobby_troup#spouse#julie_london#<end>#julie_london
+what is the gender of dad of frederick_edward_guest ?	male	frederick_edward_guest#parents#ivor_churchill_guest_1st_viscount_wimborne#gender#male#<end>#male
+is charles_i_of_england 's heir a man or a woman ?	female	charles_i_of_england#children#princess_elizabeth_of_england#gender#female#<end>#female

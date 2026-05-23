@@ -1,0 +1,33 @@
+alva_belmont 's spouse 's parents ?	william_henry_vanderbilt	alva_belmont#spouse#william_kissam_vanderbilt#parents#william_henry_vanderbilt#<end>#william_henry_vanderbilt
+john_of_gaunt_1st_duke_of_lancaster 's husband 's sex ?	female	john_of_gaunt_1st_duke_of_lancaster#spouse#blanche_of_lancaster#gender#female#<end>#female
+the gender of child of barbu_stirbey ?	male	barbu_stirbey#children#prince_mircea_of_romania#gender#male#<end>#male
+what is the gender of parents of alfonso_iv_of_leon ?	male	alfonso_iv_of_leon#parents#ordono_ii_of_leon#gender#male#<end>#male
+what is the alexandre_vicomte_de_beauharnais 's kid 's gender ?	female	alexandre_vicomte_de_beauharnais#children#hortense_de_beauharnais#gender#female#<end>#female
+the nation of spouse of luz_magsaysay ?	philippines	luz_magsaysay#spouse#ramon_magsaysay#nationality#philippines#<end>#philippines
+philip_v_of_spain 's heir 's nationality ?	portugal	philip_v_of_spain#children#mariana_victoria_of_spain#nationality#portugal#<end>#portugal
+is alexandre_vicomte_de_beauharnais 's kid a man or a woman ?	female	alexandre_vicomte_de_beauharnais#children#hortense_de_beauharnais#gender#female#<end>#female
+what is the son of kid of alexandre_vicomte_de_beauharnais ?	napoleon_iii_of_france	alexandre_vicomte_de_beauharnais#children#hortense_de_beauharnais#children#napoleon_iii_of_france#<end>#napoleon_iii_of_france
+edwin_samuel_montagu 's darling 's nation ?	united_kingdom	edwin_samuel_montagu#spouse#venetia_stanley_1887#nationality#united_kingdom#<end>#united_kingdom
+is anna_radziwill 's other half a man or a woman ?	male	anna_radziwill#spouse#konrad_iii_rudy#gender#male#<end>#male
+takelot_iii 's parent 's daughter ?	takelot_iii	takelot_iii#parents#osorkon_iii#children#takelot_iii#<end>#takelot_iii
+what religious belief does charles_ferdinand_duc_de_berry 's mother have ?	catholicism	charles_ferdinand_duc_de_berry#parents#charles_x_of_france#religion#catholicism#<end>#catholicism
+what is the husband of heir of philip_v_of_spain ?	joseph_i_of_portugal	philip_v_of_spain#children#mariana_victoria_of_spain#spouse#joseph_i_of_portugal#<end>#joseph_i_of_portugal
+what is the yongzheng_emperor 's offspring 's kid ?	jiaqing_emperor	yongzheng_emperor#children#qianlong_emperor#children#jiaqing_emperor#<end>#jiaqing_emperor
+anne_of_great_britain 's couple 's nationality ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+what is the gender of louis_ix_of_france 's children ?	male	louis_ix_of_france#children#philip_iii_of_france#gender#male#<end>#male
+who is the father of aelia_eudoxia 's wife ?	theodosius_i	aelia_eudoxia#spouse#arcadius#parents#theodosius_i#<end>#theodosius_i
+kikkawa_motoharu 's father 's location ?	aki_province	kikkawa_motoharu#parents#mori_motonari#location#aki_province#<end>#aki_province
+what is the name of the spouse of mary_anna_custis_lee 's husband ?	mary_anna_custis_lee	mary_anna_custis_lee#spouse#robert_e_lee#spouse#mary_anna_custis_lee#<end>#mary_anna_custis_lee
+what does cosima_wagner 's offspring do for a living?	conducting	cosima_wagner#children#siegfried_wagner#profession#conducting#<end>#conducting
+what is the nationality of couple of anne_of_great_britain ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+what is the work of buster_keaton 's parents ?	actor	buster_keaton#parents#joe_keaton#profession#actor#<end>#actor
+what is the aelia_eudoxia 's wife 's father ?	theodosius_i	aelia_eudoxia#spouse#arcadius#parents#theodosius_i#<end>#theodosius_i
+which city did marguerite_of_france 's mother born ?	leuven	marguerite_of_france#parents#maria_of_brabant#place_of_birth#leuven#<end>#leuven
+christian_x_of_denmark 's kid 's sex ?	male	christian_x_of_denmark#children#frederick_ix_of_denmark#gender#male#<end>#male
+what religious belief is thomas_spurgeon 's parent ?	christian	thomas_spurgeon#parents#charles_spurgeon#religion#christian#<end>#christian
+the place of death of children of ahaz ?	jerusalem	ahaz#children#hezekiah#place_of_death#jerusalem#<end>#jerusalem
+the race of parent of simeon_uro ?	serbs	simeon_uro#parents#stefan_uro_iii_de_anski_of_serbia#ethnicity#serbs#<end>#serbs
+the nationality of couple of anne_of_great_britain ?	denmark	anne_of_great_britain#spouse#george_of_denmark#nationality#denmark#<end>#denmark
+the gender of darling of andronikos_iii_palaiologos ?	female	andronikos_iii_palaiologos#spouse#anna_of_savoy#gender#female#<end>#female
+what sex is adelaide_of_lowenstein_wertheim_rosenberg 's offspring  ?	female	adelaide_of_lowenstein_wertheim_rosenberg#children#maria_josepha_of_portugal#gender#female#<end>#female
+what is the noble_consort_wan 's spouse 's daughter ?	jiaqing_emperor	noble_consort_wan#spouse#qianlong_emperor#children#jiaqing_emperor#<end>#jiaqing_emperor
