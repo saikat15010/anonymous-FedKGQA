@@ -1,0 +1,128 @@
+#!/bin/bash
+# Federated KGQA Training and Evaluation - All Experiments
+# 6 Combinations: TransE/DistMult/ComplEx × BERT/DistilBERT
+
+cd "/home/islamm9/FedKGQA/BERT/TransE and DistilBert/Client10"
+
+# ========================================
+# TRAINING PHASE
+# ========================================
+
+echo "========================================="
+echo "Starting Training Phase"
+echo "========================================="
+
+# Experiment 1: TransE + BERT
+echo "Training TransE + BERT..."
+python main_all.py \
+    --data_path ./federated_clients \
+    --num_clients 10 \
+    --kge_model transe \
+    --lm_model bert \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --state_dir ./state_transe_bert \
+    --log_dir ./log \
+    --gpu 0
+
+# Experiment 2: TransE + DistilBERT
+echo "Training TransE + DistilBERT..."
+python main_all.py \
+    --data_path ./federated_clients \
+    --num_clients 10 \
+    --kge_model transe \
+    --lm_model distilbert \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --state_dir ./state_transe_distilbert \
+    --log_dir ./log \
+    --gpu 0
+
+# Experiment 3: DistMult + BERT
+echo "Training DistMult + BERT..."
+python main_all.py \
+    --data_path ./federated_clients \
+    --num_clients 10 \
+    --kge_model distmult \
+    --lm_model bert \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --state_dir ./state_distmult_bert \
+    --log_dir ./log \
+    --gpu 0
+
+# Experiment 4: DistMult + DistilBERT
+echo "Training DistMult + DistilBERT..."
+python main_all.py \
+    --data_path ./federated_clients \
+    --num_clients 10 \
+    --kge_model distmult \
+    --lm_model distilbert \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --state_dir ./state_distmult_distilbert \
+    --log_dir ./log \
+    --gpu 0
+
+
+# ========================================
+# EVALUATION PHASE
+# ========================================
+
+echo "========================================="
+echo "Starting Evaluation Phase"
+echo "========================================="
+
+# Evaluation 1: TransE + BERT
+echo "Evaluating TransE + BERT..."
+python server_eval_all.py \
+    --client_data_path ./federated_clients \
+    --server_test_path ./federated_server \
+    --state_dir ./state_transe_bert \
+    --kge_model transe \
+    --lm_model bert \
+    --num_clients 10 \
+    --hidden_dim 256 \
+    --gpu 0 | tee TransE_BERT.log
+
+# Evaluation 2: TransE + DistilBERT
+echo "Evaluating TransE + DistilBERT..."
+python server_eval_all.py \
+    --client_data_path ./federated_clients \
+    --server_test_path ./federated_server \
+    --state_dir ./state_transe_distilbert \
+    --kge_model transe \
+    --lm_model distilbert \
+    --num_clients 10 \
+    --hidden_dim 256 \
+    --gpu 0 | tee TransE_DistilBERT.log
+
+# Evaluation 3: DistMult + BERT
+echo "Evaluating DistMult + BERT..."
+python server_eval_all.py \
+    --client_data_path ./federated_clients \
+    --server_test_path ./federated_server \
+    --state_dir ./state_distmult_bert \
+    --kge_model distmult \
+    --lm_model bert \
+    --num_clients 10 \
+    --hidden_dim 256 \
+    --gpu 0 | tee DistMult_BERT.log
+
+# Evaluation 4: DistMult + DistilBERT
+echo "Evaluating DistMult + DistilBERT..."
+python server_eval_all.py \
+    --client_data_path ./federated_clients \
+    --server_test_path ./federated_server \
+    --state_dir ./state_distmult_distilbert \
+    --kge_model distmult \
+    --lm_model distilbert \
+    --num_clients 10 \
+    --hidden_dim 256 \
+    --gpu 0 | tee DistMult_DistilBERT.log
+
+

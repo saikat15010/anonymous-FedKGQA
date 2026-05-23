@@ -1,0 +1,162 @@
+# Bash commands to run Federated KGQA with DP variants
+
+# ====================================================================================
+# IMPORTANT: Replace /path/to/your/federated_data with your actual data path
+# ====================================================================================
+
+DATA_PATH="/path/to/your/federated_data"  # UPDATE THIS!
+
+cd "/home/islamm9/FedKGQA/Federated_QA/DP Version/Final DP"
+# ====================================================================================
+# 1. Baseline (Without DP)
+# ====================================================================================
+python main_dp.py \
+  --data_path "federated_clients" \
+  --num_clients 3 \
+  --name fkgqa_baseline \
+  --state_dir ./state_baseline \
+  --log_dir ./log_baseline \
+  --hidden_dim 256 \
+  --kg_max_rounds 5 \
+  --qa_max_rounds 2 \
+  --local_epoch 3 \
+  --qa_local_epoch 2 \
+  --batch_size 512 \
+  --qa_batch_size 16 \
+  --lr 0.0005 \
+  --qa_lr 1e-5 \
+  --gpu 0
+
+# ====================================================================================
+# 2. DP with sigma=0.1 (Low noise)
+# ====================================================================================
+python main_dp.py \
+  --data_path "federated_clients" \
+  --num_clients 3 \
+  --name fkgqa_dp_sigma01 \
+  --state_dir ./state_dp_sigma01 \
+  --log_dir ./log_dp_sigma01 \
+  --hidden_dim 256 \
+  --kg_max_rounds 5 \
+  --qa_max_rounds 2 \
+  --local_epoch 3 \
+  --qa_local_epoch 2 \
+  --batch_size 512 \
+  --qa_batch_size 16 \
+  --lr 0.0005 \
+  --qa_lr 1e-5 \
+  --dp_enabled \
+  --dp_sigma 0.1 \
+  --dp_clipping_bound 5.0 \
+  --gpu 0
+
+
+# ====================================================================================
+# 4. DP with sigma=0.3 (Medium noise)
+# ====================================================================================
+python main_dp.py \
+  --data_path "federated_clients" \
+  --num_clients 3 \
+  --name fkgqa_dp_sigma03 \
+  --state_dir ./state_dp_sigma03 \
+  --log_dir ./log_dp_sigma03 \
+  --hidden_dim 256 \
+  --kg_max_rounds 5 \
+  --qa_max_rounds 2 \
+  --local_epoch 3 \
+  --qa_local_epoch 2 \
+  --batch_size 512 \
+  --qa_batch_size 16 \
+  --lr 0.0005 \
+  --qa_lr 1e-5 \
+  --dp_enabled \
+  --dp_sigma 0.3 \
+  --dp_clipping_bound 5.0 \
+  --gpu 0
+
+# ====================================================================================
+# 3. DP with sigma=0.5 (High noise)
+# ====================================================================================
+python main_dp.py \
+  --data_path "federated_clients" \
+  --num_clients 3 \
+  --name fkgqa_dp_sigma05 \
+  --state_dir ./state_dp_sigma05 \
+  --log_dir ./log_dp_sigma05 \
+  --hidden_dim 256 \
+  --kg_max_rounds 5 \
+  --qa_max_rounds 2 \
+  --local_epoch 3 \
+  --qa_local_epoch 2 \
+  --batch_size 512 \
+  --qa_batch_size 16 \
+  --lr 0.0005 \
+  --qa_lr 1e-5 \
+  --dp_enabled \
+  --dp_sigma 0.5 \
+  --dp_clipping_bound 5.0 \
+  --gpu 0
+
+
+
+# ====================================================================================
+# Notes:
+# - All experiments use clipping_bound=5.0
+# - Training: 5 KG rounds, 2 QA rounds
+# - Set gpu to -1 for CPU or specific GPU ID (0, 1, 2, etc.)
+# - Results saved to separate directories for each variant
+# ====================================================================================
+
+
+
+# Test Baseline (no DP)
+python quick_test_relation_aware.py \
+  --test_file "federated_server/qa_test.txt" \
+  --client_data_path "federated_clients" \
+  --state_dir ./state_baseline \
+  --num_clients 3 \
+  --hidden_dim 256 \
+  --beam_width 3 \
+  --num_samples 2000 \
+  --num_examples 10 \
+  --gpu 0 | tee evaluation-nodp.log
+
+# Test DP sigma=0.1
+python quick_test_relation_aware.py \
+  --test_file "federated_server/qa_test.txt" \
+  --client_data_path "federated_clients" \
+  --state_dir ./state_dp_sigma01 \
+  --num_clients 3 \
+  --hidden_dim 256 \
+  --beam_width 3 \
+  --num_samples 2000 \
+  --num_examples 10 \
+  --gpu 0 | tee evaluation-01.log
+
+
+# Test DP sigma=0.3
+python quick_test_relation_aware.py \
+  --test_file "federated_server/qa_test.txt" \
+  --client_data_path "federated_clients" \
+  --state_dir ./state_dp_sigma03 \
+  --num_clients 3 \
+  --hidden_dim 256 \
+  --beam_width 3 \
+  --num_samples 2000 \
+  --num_examples 10 \
+  --gpu 0 | tee evaluation-03.log
+
+
+# Test DP sigma=0.5
+python quick_test_relation_aware.py \
+  --test_file "federated_server/qa_test.txt" \
+  --client_data_path "federated_clients" \
+  --state_dir ./state_dp_sigma05 \
+  --num_clients 3 \
+  --hidden_dim 256 \
+  --beam_width 3 \
+  --num_samples 2000 \
+  --num_examples 10 \
+  --gpu 0 | tee evaluation-05.log
+
+

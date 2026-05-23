@@ -1,0 +1,33 @@
+# ========================================
+# PathQuestion Federated KGQA Training
+# Complete Training Commands (10 KG rounds, 10 QA rounds, check every 4 rounds)
+# ========================================
+
+# Change to your working directory
+cd "/home/islamm9/PathQuestion_Dataset/ComplEx/Client1"
+
+
+# ========================================
+# RoBERTa-ComplEx Training (Client 1)
+# ========================================
+
+python main_roberta_complex.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client1/federated_clients \
+    --num_clients 1 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_client1 \
+    --log_dir ./log_roberta_client1 \
+    --name roberta_complex_client1 \
+    --gpu 0 
+
+

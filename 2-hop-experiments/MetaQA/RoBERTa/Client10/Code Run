@@ -1,0 +1,60 @@
+# Training Commands for All KGE Models
+
+cd "/home/islamm9/FedKGQA/Federated_QA/RoBERTa/Client10"
+
+# RoBERTa-TransE
+python main_all.py \
+    --data_path federated_clients \
+    --num_clients 10 \
+    --kge_model transe \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --qa_batch_size 8 \
+    --qa_lr 5e-6 \
+    --num_neg_qa 256 \
+    --check_per_round 2 \
+    --state_dir ./state_transe \
+    --gpu 0
+
+# RoBERTa-DistMult
+python main_all.py \
+    --data_path federated_clients \
+    --num_clients 10 \
+    --kge_model distmult \
+    --hidden_dim 256 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --qa_batch_size 8 \
+    --qa_lr 5e-6 \
+    --num_neg_qa 256 \
+    --check_per_round 2 \
+    --state_dir ./state_distmult \
+    --gpu 0
+
+
+
+# Testing Commands for All KGE Models
+
+
+# RoBERTa-TransE
+python server_eval_all.py \
+    --client_data_path federated_clients \
+    --server_test_path federated_server \
+    --state_dir ./state_transe \
+    --hidden_dim 256 \
+    --num_samples 10000 \
+    --num_clients 10 \
+    --gpu 0 | tee evaluation-transe.log
+
+# RoBERTa-DistMult
+python server_eval_all.py \
+    --client_data_path federated_clients \
+    --server_test_path federated_server \
+    --state_dir ./state_distmult \
+    --hidden_dim 256 \
+    --num_samples 10000 \
+    --num_clients 10 \
+    --gpu 0 | tee evaluation-distmult.log
+
+

@@ -1,0 +1,80 @@
+
+# ========================================
+# CLIENT 3 - RoBERTa-ComplEx (No Aggregation)
+# ========================================
+
+cd "/home/islamm9/PathQuestion_Dataset/Abalation Study NoAggregation/Client3"
+
+python main_roberta_complex_noagg.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client3/federated_clients \
+    --num_clients 3 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_noagg_client3 \
+    --log_dir ./log_roberta_noagg_client3 \
+    --name roberta_complex_noagg_client3 \
+    --gpu 0
+
+
+# ========================================
+# CLIENT 5 - RoBERTa-ComplEx (No Aggregation)
+# ========================================
+
+cd "/home/islamm9/PathQuestion_Dataset/Abalation Study NoAggregation/Client5"
+
+python main_roberta_complex_noagg.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+    --num_clients 5 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_noagg_client5 \
+    --log_dir ./log_roberta_noagg_client5 \
+    --name roberta_complex_noagg_client5 \
+    --gpu 0
+
+
+# ========================================
+# CLIENT 10 - RoBERTa-ComplEx (No Aggregation)
+# ========================================
+
+cd "/home/islamm9/PathQuestion_Dataset/Abalation Study NoAggregation/Client10"
+
+python main_roberta_complex_noagg.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client10/federated_clients \
+    --num_clients 10 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_noagg_client10 \
+    --log_dir ./log_roberta_noagg_client10 \
+    --name roberta_complex_noagg_client10 \
+    --gpu 0
+
+
+

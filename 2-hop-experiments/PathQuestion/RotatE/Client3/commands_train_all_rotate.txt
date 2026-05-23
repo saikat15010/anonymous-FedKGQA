@@ -1,0 +1,119 @@
+# ========================================
+# PathQuestion Federated KGQA Training - RotatE
+# Complete Training Commands (50 KG rounds, 50 QA rounds, check every 5 rounds)
+# ========================================
+
+# Change to your working directory
+cd "/home/islamm9/PathQuestion_Dataset/RotatE/Client3"
+
+
+# ========================================
+# BERT-RotatE Training (Client 3)
+# ========================================
+
+python main_bert_rotate.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client3/federated_clients \
+    --num_clients 3 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_bert_client3 \
+    --log_dir ./log_bert_client3 \
+    --name bert_rotate_client3 \
+    --gpu 1 
+
+
+# ========================================
+# DistilBERT-RotatE Training (Client 3)
+# ========================================
+
+python main_distilbert_rotate.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client3/federated_clients \
+    --num_clients 3 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_distilbert_client3 \
+    --log_dir ./log_distilbert_client3 \
+    --name distilbert_rotate_client3 \
+    --gpu 1
+
+
+# ========================================
+# RoBERTa-RotatE Training (Client 3)
+# ========================================
+
+python main_roberta_rotate.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client3/federated_clients \
+    --num_clients 3 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_client3 \
+    --log_dir ./log_roberta_client3 \
+    --name roberta_rotate_client3 \
+    --gpu 1 
+
+
+# ========================================
+# FOR CLIENT 5: Just change these parameters
+# ========================================
+# --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients
+# --num_clients 5
+# --state_dir ./state_bert_client5  (and update for distilbert/roberta)
+# --log_dir ./log_bert_client5      (and update for distilbert/roberta)
+# --name bert_rotate_client5       (and update for distilbert/roberta)
+
+
+# ========================================
+# FOR CLIENT 10: Just change these parameters
+# ========================================
+# --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client10/federated_clients
+# --num_clients 10
+# --state_dir ./state_bert_client10  (and update for distilbert/roberta)
+# --log_dir ./log_bert_client10      (and update for distilbert/roberta)
+# --name bert_rotate_client10       (and update for distilbert/roberta)
+
+
+# ========================================
+# NOTES:
+# ========================================
+# - KG rounds: 50 (trains RotatE embeddings)
+# - QA rounds: 50 (trains language model QA head)
+# - Evaluation every 5 rounds 
+# - Best model saved based on Hits@5 on dev set
+# - Training takes ~10-30 minutes per model depending on GPU
+# - Models saved to ./state_*/best_models/
+# - Logs saved to ./log_*/
+# 
+# RotatE Model:
+# - Models relations as rotations in complex space
+# - entities: 2*hidden_dim (complex embeddings)
+# - relations: hidden_dim (phase angles)
+# - Scoring: -||h ∘ r - t|| (rotation + distance)
+# - Good for modeling symmetric AND asymmetric relations
+# - Often achieves best accuracy among distance-based models

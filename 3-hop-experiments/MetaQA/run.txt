@@ -1,0 +1,43 @@
+# ── SET PATHS (run this first in every terminal) ──────────────────────
+DATA="/home/islamm9/CIKIM/3-hop/MetaQA/Dataset/Client3/federated_clients"
+TEST="/home/islamm9/CIKIM/3-hop/MetaQA/Dataset/Client3/federated_server/qa_test.txt"
+
+
+# ══════════════════════════════════════════════════════════════════════
+# 1. BERT + TransE
+# ══════════════════════════════════════════════════════════════════════
+
+
+# Train
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/BERT + TransE"
+python main_metaqa_3hop.py --data_path "$DATA" --num_clients 3 --kge_model transe --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --gpu 1
+
+# Eval
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/BERT + TransE"
+python eval_metaqa_3hop.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --kge_model transe --lm_model bert --hidden_dim 256 --output_file eval.json --gpu 1
+
+
+# ══════════════════════════════════════════════════════════════════════
+# 2. DistilBERT + TransE
+# ══════════════════════════════════════════════════════════════════════
+
+# Train
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/DistilBERT + TransE"
+python main_metaqa_3hop.py --data_path "$DATA" --num_clients 3 --kge_model transe --lm_model distilbert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --gpu 1
+
+# Eval
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/DistilBERT + TransE"
+python eval_metaqa_3hop.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --kge_model transe --lm_model distilbert --hidden_dim 256 --output_file eval.json --gpu 1
+
+
+# ══════════════════════════════════════════════════════════════════════
+# 3. RoBERTa + ComplEx
+# ══════════════════════════════════════════════════════════════════════
+
+# Train
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/RoBERTa + ComplEx"
+python main_metaqa_3hop.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model roberta --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --gpu 1
+
+# Eval
+cd "/home/islamm9/CIKIM/3-hop/MetaQA/RoBERTa + ComplEx"
+python eval_metaqa_3hop.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --kge_model complex --lm_model roberta --hidden_dim 256 --output_file eval.json --gpu 1

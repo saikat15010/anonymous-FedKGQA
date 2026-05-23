@@ -1,0 +1,104 @@
+#!/bin/bash
+echo "=========================================="
+echo "Training ComplEx-BERT and ComplEx-DistilBERT"
+echo "KG Rounds: 10"
+echo "QA Rounds: 5"
+echo "=========================================="
+
+cd "/home/islamm9/FedKGQA/BERT/CompleX/Client5"
+
+# Train ComplEx-BERT
+echo ""
+echo "Starting ComplEx-BERT training..."
+python main_updated.py \
+    --data_path ./federated_clients \
+    --num_clients 5 \
+    --encoder_type bert \
+    --hidden_dim 512 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --qa_batch_size 8 \
+    --qa_lr 5e-6 \
+    --num_neg_qa 256 \
+    --check_per_round 2 \
+    --state_dir ./state_bert \
+    --log_dir ./log_bert \
+    --gpu 0
+
+echo ""
+echo "ComplEx-BERT training completed!"
+echo ""
+
+# Train ComplEx-DistilBERT
+echo "Starting ComplEx-DistilBERT training..."
+python main_updated.py \
+    --data_path ./federated_clients \
+    --num_clients 5 \
+    --encoder_type distilbert \
+    --hidden_dim 512 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --qa_batch_size 8 \
+    --qa_lr 5e-6 \
+    --num_neg_qa 256 \
+    --check_per_round 2 \
+    --state_dir ./state_distilbert \
+    --log_dir ./log_distilbert \
+    --gpu 0
+
+echo ""
+echo "ComplEx-DistilBERT training completed!"
+echo ""
+echo "=========================================="
+echo "All training completed!"
+echo "Results saved in:"
+echo "  - ./state_bert/"
+echo "  - ./state_distilbert/"
+echo "=========================================="
+
+# ==========================================
+# TESTING PHASE
+# ==========================================
+
+
+
+# Test ComplEx-BERT
+echo ""
+echo "Starting ComplEx-BERT testing..."
+
+python quick_test_relation_aware.py \
+  --test_file ./federated_server/qa_test.txt \
+  --client_data_path ./federated_clients \
+  --state_dir ./state_bert \
+  --encoder_type bert \
+  --num_clients 5 \
+  --hidden_dim 512 \
+  --num_samples 10000 \
+  --only_2hop \
+  --beam_width 6 \
+  --output_file bert_test_results.json \
+  --gpu 0 2>&1 | tee ComplEx_BERT_test.log
+
+
+echo ""
+echo "ComplEx-BERT testing completed!"
+echo ""
+
+# Test ComplEx-DistilBERT
+echo "Starting ComplEx-DistilBERT testing..."
+
+python quick_test_relation_aware.py \
+  --test_file ./federated_server/qa_test.txt \
+  --client_data_path ./federated_clients \
+  --state_dir ./state_distilbert \
+  --encoder_type distilbert \
+  --num_clients 5 \
+  --hidden_dim 512 \
+  --num_samples 10000 \
+  --only_2hop \
+  --beam_width 6 \
+  --output_file distilbert_test_results.json \
+  --gpu 0 2>&1 | tee ComplEx_DistilBert_test.log
+
+echo ""
+echo "ComplEx-DistilBERT testing completed!"

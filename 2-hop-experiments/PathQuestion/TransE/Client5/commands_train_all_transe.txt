@@ -1,0 +1,116 @@
+# ========================================
+# PathQuestion Federated KGQA Training - TransE
+# Complete Training Commands (50 KG rounds, 50 QA rounds, check every 5 rounds)
+# ========================================
+
+# Change to your working directory
+cd "/home/islamm9/PathQuestion_Dataset/TransE/Client5"
+
+
+# ========================================
+# BERT-TransE Training (Client 5)
+# ========================================
+
+python main_bert_transe.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+    --num_clients 5 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_bert_client5 \
+    --log_dir ./log_bert_client5 \
+    --name bert_transe_client5 \
+    --gpu 1 
+
+
+# ========================================
+# DistilBERT-TransE Training (Client 5)
+# ========================================
+
+python main_distilbert_transe.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+    --num_clients 5 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_distilbert_client5 \
+    --log_dir ./log_distilbert_client5 \
+    --name distilbert_transe_client5 \
+    --gpu 1 
+
+
+# ========================================
+# RoBERTa-TransE Training (Client 5)
+# ========================================
+
+python main_roberta_transe.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+    --num_clients 5 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --local_epoch 3 \
+    --qa_local_epoch 2 \
+    --batch_size 512 \
+    --qa_batch_size 8 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_roberta_client5 \
+    --log_dir ./log_roberta_client5 \
+    --name roberta_transe_client5 \
+    --gpu 1 
+
+
+# ========================================
+# FOR CLIENT 5: Just change these parameters
+# ========================================
+# --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients
+# --num_clients 5
+# --state_dir ./state_bert_client5  (and update for distilbert/roberta)
+# --log_dir ./log_bert_client5      (and update for distilbert/roberta)
+# --name bert_transe_client5       (and update for distilbert/roberta)
+
+
+# ========================================
+# FOR CLIENT 10: Just change these parameters
+# ========================================
+# --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client10/federated_clients
+# --num_clients 10
+# --state_dir ./state_bert_client10  (and update for distilbert/roberta)
+# --log_dir ./log_bert_client10      (and update for distilbert/roberta)
+# --name bert_transe_client10       (and update for distilbert/roberta)
+
+
+# ========================================
+# NOTES:
+# ========================================
+# - KG rounds: 50 (trains TransE embeddings)
+# - QA rounds: 50 (trains language model QA head)
+# - Evaluation every 5 rounds 
+# - Best model saved based on Hits@5 on dev set
+# - Training takes ~10-30 minutes per model depending on GPU
+# - Models saved to ./state_*/best_models/
+# - Logs saved to ./log_*/
+# 
+# TransE vs ComplEx:
+# - TransE: entities=hidden_dim, relations=hidden_dim (simpler)
+# - ComplEx: entities=2*hidden_dim, relations=2*hidden_dim (complex)
+# - TransE uses L1/L2 distance, ComplEx uses inner product

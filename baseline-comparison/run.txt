@@ -1,0 +1,44 @@
+# ══════════════════════════════════════════════════════════════════════
+# STEP 1: Train all 5 baselines
+# ══════════════════════════════════════════════════════════════════════
+DATA="/home/islamm9/FedKGQA/BERT/TransE and DistilBert/Client3/federated_clients"
+
+# Baseline 1: EmbedKGQA
+cd "/home/islamm9/CIKIM/Baselines/1_EmbedKGQA/MetaQA"
+python main_all.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --name embedkgqa_complex_bert --gpu 0
+
+# Baseline 2: FL-KG-QA
+cd "/home/islamm9/CIKIM/Baselines/2_FL_KG_QA/MetaQA"
+python main_all.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --name flkgqa_complex_bert --gpu 0
+
+# Baseline 3: FedE
+cd "/home/islamm9/CIKIM/Baselines/3_FedE/MetaQA"
+python main_all.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --name fede_complex_bert --gpu 0
+
+# Baseline 4: FedR
+cd "/home/islamm9/CIKIM/Baselines/4_FedR/MetaQA"
+python main_all.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --name fedr_complex_bert --gpu 1
+
+# Baseline 5: FedNGDB
+cd "/home/islamm9/CIKIM/Baselines/5_FedNGDB/MetaQA"
+python main_all.py --data_path "$DATA" --num_clients 3 --kge_model complex --lm_model bert --hidden_dim 256 --kg_max_rounds 10 --qa_max_rounds 5 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 5e-6 --num_neg 256 --num_neg_qa 256 --check_per_round 2 --state_dir ./state --log_dir ./log --name fedngdb_complex_bert --gpu 1
+
+# ══════════════════════════════════════════════════════════════════════
+# STEP 2: Evaluate all 5 baselines
+# ══════════════════════════════════════════════════════════════════════
+SERVER="/home/islamm9/FedKGQA/BERT/TransE and DistilBert/Client3/federated_server"
+
+cd "/home/islamm9/CIKIM/Baselines/1_EmbedKGQA/MetaQA"
+python server_eval_all.py --client_data_path "$DATA" --server_test_path "$SERVER" --state_dir ./state --num_clients 3 --hidden_dim 256 --kge_model complex --lm_model bert --gpu 0
+
+cd "/home/islamm9/CIKIM/Baselines/2_FL_KG_QA/MetaQA"
+python server_eval_all.py --client_data_path "$DATA" --server_test_path "$SERVER" --state_dir ./state --num_clients 3 --hidden_dim 256 --kge_model complex --lm_model bert --gpu 0
+
+cd "/home/islamm9/CIKIM/Baselines/3_FedE/MetaQA"
+python server_eval_all.py --client_data_path "$DATA" --server_test_path "$SERVER" --state_dir ./state --num_clients 3 --hidden_dim 256 --kge_model complex --lm_model bert --gpu 0
+
+cd "/home/islamm9/CIKIM/Baselines/4_FedR/MetaQA"
+python server_eval_all.py --client_data_path "$DATA" --server_test_path "$SERVER" --state_dir ./state --num_clients 3 --hidden_dim 256 --kge_model complex --lm_model bert --gpu 1
+
+cd "/home/islamm9/CIKIM/Baselines/5_FedNGDB/MetaQA"
+python server_eval_all.py --client_data_path "$DATA" --server_test_path "$SERVER" --state_dir ./state --num_clients 3 --hidden_dim 256 --kge_model complex --lm_model bert --gpu 1

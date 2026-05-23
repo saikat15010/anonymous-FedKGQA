@@ -1,0 +1,20 @@
+DATA="/home/islamm9/PathQuestion_Dataset/Dataset/Client3_3H/federated_clients"
+TEST="/home/islamm9/PathQuestion_Dataset/Dataset/Client3_3H/federated_server/qa_test.txt"
+
+# BERT + ComplEx
+cd "/home/islamm9/CIKIM/3-hop/PathQuestion/BERT + ComplEx"
+python main_bert_complex_pq3h.py --data_path "$DATA" --num_clients 3 --hidden_dim 512 --kg_max_rounds 50 --qa_max_rounds 50 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 1e-5 --num_neg 256 --num_neg_qa 128 --check_per_round 5 --state_dir ./state --log_dir ./log --name bert_complex_pq3h --gpu 1
+
+python eval_pq3h.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --hidden_dim 512 --encoder bert --output_file eval.json --gpu 1
+
+# DistilBERT + ComplEx
+cd "/home/islamm9/CIKIM/3-hop/PathQuestion/DistilBERT + ComplEx"
+python main_distilbert_complex_pq3h.py --data_path "$DATA" --num_clients 3 --hidden_dim 512 --kg_max_rounds 50 --qa_max_rounds 50 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 1e-5 --num_neg 256 --num_neg_qa 128 --check_per_round 5 --state_dir ./state --log_dir ./log --name distilbert_complex_pq3h --gpu 1
+
+python eval_pq3h.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --hidden_dim 512 --encoder distilbert --output_file eval.json --gpu 1
+
+# RoBERTa + ComplEx
+cd "/home/islamm9/CIKIM/3-hop/PathQuestion/RoBERTa + ComplEx"
+python main_roberta_complex_pq3h.py --data_path "$DATA" --num_clients 3 --hidden_dim 512 --kg_max_rounds 50 --qa_max_rounds 50 --local_epoch 3 --qa_local_epoch 2 --batch_size 512 --qa_batch_size 8 --qa_lr 1e-5 --num_neg 256 --num_neg_qa 128 --check_per_round 5 --state_dir ./state --log_dir ./log --name roberta_complex_pq3h --gpu 1
+
+python eval_pq3h.py --test_file "$TEST" --client_data_path "$DATA" --state_dir ./state --num_clients 3 --hidden_dim 512 --encoder roberta --output_file eval.json --gpu 1

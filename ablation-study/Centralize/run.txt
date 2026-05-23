@@ -1,0 +1,48 @@
+# ========================================
+# ABLATION STUDIES - UPDATED COMMANDS
+# Using Client1 federated data for all three models
+# ========================================
+
+
+cd "/home/islamm9/PathQuestion_Dataset/Abalation Study Centralize"
+
+# ========================================
+# ABLATION 2: Centralized Training
+# Combines all client data from Client1
+# Test set from federated_server
+# ========================================
+
+python main_ablation2_centralized.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client1 \
+    --num_clients 1 \
+    --hidden_dim 512 \
+    --kg_max_rounds 50 \
+    --qa_max_rounds 50 \
+    --batch_size 512 \
+    --qa_batch_size 16 \
+    --qa_lr 1e-5 \
+    --num_neg 256 \
+    --num_neg_qa 128 \
+    --check_per_round 5 \
+    --state_dir ./state_ablation2_client1 \
+    --log_dir ./log_ablation2_client1 \
+    --name ablation2_centralized \
+    --gpu 0
+
+
+# ========================================
+# EVALUATION COMMANDS
+# ========================================
+
+
+# ABLATION 2 Evaluation
+python eval_ablation2_centralized.py \
+    --data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client1 \
+    --num_clients 1 \
+    --state_dir ./state_ablation2_client1 \
+    --hidden_dim 512 \
+    --batch_size 16 \
+    --output_file eval_results_ablation2.json \
+    --gpu 0 2>&1 | tee "centralize.log"
+
+

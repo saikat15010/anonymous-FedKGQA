@@ -1,0 +1,71 @@
+# ========================================
+# PathQuestion Federated KGQA Evaluation - TransE
+# Complete Evaluation Commands for Test Set
+# ========================================
+
+# Change to your working directory
+cd "/home/islamm9/PathQuestion_Dataset/TransE/Client5"
+
+
+# ========================================
+# BERT-TransE Evaluation (Client 5)
+# ========================================
+
+python eval_server_bert_transe.py \
+  --test_file /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_server/qa_test.txt \
+  --client_data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+  --state_dir ./state_bert_client5 \
+  --num_clients 5 \
+  --hidden_dim 512 \
+  --output_file eval_results_bert_client5.json \
+  --gpu 1 2>&1 | tee "TransE_BERT.log"
+
+
+# ========================================
+# DistilBERT-TransE Evaluation (Client 5)
+# ========================================
+
+python eval_server_distilbert_transe.py \
+  --test_file /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_server/qa_test.txt \
+  --client_data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+  --state_dir ./state_distilbert_client5 \
+  --num_clients 5 \
+  --hidden_dim 512 \
+  --output_file eval_results_distilbert_client5.json \
+  --gpu 1 2>&1 | tee "TransE_DistilBERT.log"
+
+
+# ========================================
+# RoBERTa-TransE Evaluation (Client 5)
+# ========================================
+
+python eval_server_roberta_transe.py \
+  --test_file /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_server/qa_test.txt \
+  --client_data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients \
+  --state_dir ./state_roberta_client5 \
+  --num_clients 5 \
+  --hidden_dim 512 \
+  --output_file eval_results_roberta_client5.json \
+  --gpu 1 2>&1 | tee "TransE_RoBERTa.log"
+
+
+# ========================================
+# FOR CLIENT 5: Just change these parameters
+# ========================================
+# --test_file /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_server/qa_test.txt
+# --client_data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client5/federated_clients
+# --state_dir ./state_bert_client5       (and update for distilbert/roberta)
+# --num_clients 5
+# --output_file eval_results_bert_client5.json  (and update for distilbert/roberta)
+
+
+# ========================================
+# FOR CLIENT 10: Just change these parameters
+# ========================================
+# --test_file /home/islamm9/PathQuestion_Dataset/Dataset/Client10/federated_server/qa_test.txt
+# --client_data_path /home/islamm9/PathQuestion_Dataset/Dataset/Client10/federated_clients
+# --state_dir ./state_bert_client10       (and update for distilbert/roberta)
+# --num_clients 10
+# --output_file eval_results_bert_client10.json  (and update for distilbert/roberta)
+
+

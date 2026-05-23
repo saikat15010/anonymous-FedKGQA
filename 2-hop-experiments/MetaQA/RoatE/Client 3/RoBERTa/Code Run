@@ -1,0 +1,28 @@
+# Step 1: Train Models
+cd "/home/islamm9/FedKGQA/RoatE/Client 3/RoBERTa"
+
+python main_updated.py \
+    --data_path federated_clients \
+    --hidden_dim 512 \
+    --kg_max_rounds 10 \
+    --qa_max_rounds 5 \
+    --qa_batch_size 8 \
+    --qa_lr 5e-6 \
+    --num_neg_qa 256 \
+    --check_per_round 2 \
+    --state_dir ./state_rotate_exp2_512dim \
+    --name fkgqa_rotate_512dim \
+    --gpu 0
+
+
+# Test
+python quick_test_relation_aware.py \
+  --test_file ./federated_server/qa_test.txt \
+  --client_data_path ./federated_clients \
+  --state_dir ./state_rotate_exp2_512dim \
+  --num_clients 3 \
+  --hidden_dim 512 \
+  --num_samples 10000 \
+  --only_2hop \
+  --beam_width 6 \
+  --gpu 0 2>&1 | tee eval_rotate_2hop_beam6.log
